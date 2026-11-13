@@ -25,3 +25,13 @@ ideas:
     tags: [physics, cymatics, particles, shader]
     found: 2026-11-13
     published: 2026-11-13
+  - slug: time-displacement-slit-scan
+    title: Time-Displacement Slit-Scan
+    status: published
+    pitch: Slit-scan builds an image from thin slices taken over time, so a video stream smears into flowing, time-warped streaks, from the 2001 Stargate look to Rozin's Time Scan Mirror. Run it on a live feed or clip with a time-offset map; scan position, slit angle and delay depth map to knobs or BPM, and the screen bends with every beat.
+    sources:
+      - https://flong.com/archive/texts/lists/slit_scan/index.html
+      - https://en.wikipedia.org/wiki/Slit-scan_photography
+    tags: [video, time, analog-video, feedback, camera]
+    found: 2026-11-13
+    published: 2026-11-13
