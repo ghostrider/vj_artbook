@@ -10,7 +10,8 @@ tags:
 
 > Millions of tiny agents follow each other's trails until a living web of glowing veins grows across the wall.
 
-<!-- LEAD-IMAGE -->
+![Six-panel illustration (after Nakagaki's study) of slime mould growing from one food source into an optimised network linking food points over 26 hours](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Physarum_polycephalum_network.jpg/1280px-Physarum_polycephalum_network.jpg)
+*Six-panel illustration (after Nakagaki's study) of slime mould growing from one food source into an optimised network linking food points over 26 hours. Image: [Tim Tim (VD fr)](https://commons.wikimedia.org/wiki/File:Physarum_polycephalum_network.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).*
 
 ## The idea
 

@@ -10,6 +10,9 @@ tags:
 
 > Soft forms of liquid graphite swell, merge and burst apart on the kick, all drawn by one shader and no mesh.
 
+![Power-8 Mandelbulb rendered with self-written CUDA ray-marching software (a distance-estimated, raymarched 3D form)](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Mandelbulb_fractal.png/1280px-Mandelbulb_fractal.png)
+*Power-8 Mandelbulb rendered with self-written CUDA ray-marching software (a distance-estimated, raymarched 3D form). Image: [Falco Badermann](https://commons.wikimedia.org/wiki/File:Mandelbulb_fractal.png), [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en).*
+
 ## The idea
 
 A signed distance function (SDF) answers one question: how far is this point from the nearest surface? The sign says whether the point is inside or outside ([Wikipedia: Signed distance function](https://en.wikipedia.org/wiki/Signed_distance_function)). Describe a scene that way and you can render it by ray marching. Each pixel casts a ray. At every step the scene tells the ray how far it may safely jump. The ray stops when the distance falls below a small threshold ([Wikipedia: Ray marching](https://en.wikipedia.org/wiki/Ray_marching)).

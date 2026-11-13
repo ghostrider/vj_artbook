@@ -9,7 +9,8 @@ tags:
 # Penrose Aperiodic Tilings
 
 > A floor of rhombi that looks ordered everywhere and repeats nowhere, shimmering as it re-decides itself on the beat.
-<!-- LEAD-IMAGE -->
+![P3 Penrose tiling of thick and thin rhombi with exact five-fold symmetry](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Penrose_Tiling_%28Rhombi%29.svg/1280px-Penrose_Tiling_%28Rhombi%29.svg.png)
+*P3 Penrose tiling of thick and thin rhombi with exact five-fold symmetry. Image: [Inductiveload](https://commons.wikimedia.org/wiki/File:Penrose_Tiling_(Rhombi).svg), Public domain.*
 
 ## The idea
 

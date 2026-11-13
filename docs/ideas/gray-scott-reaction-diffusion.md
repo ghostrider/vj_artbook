@@ -10,6 +10,9 @@ tags:
 
 > Two imaginary chemicals spread and react on a grid, and the wall grows spots, worms and coral that split like living cells.
 
+![Gray-Scott reaction-diffusion simulation with parameters varying radially: spots in the centre, labyrinth stripes at the edge (only 400x400 px)](https://upload.wikimedia.org/wikipedia/commons/a/a3/Gray-Scott_Lotus_%282125994225%29.jpg)
+*Gray-Scott reaction-diffusion simulation with parameters varying radially: spots in the centre, labyrinth stripes at the edge (only 400x400 px). Image: [Jonathan Lidbeck](https://commons.wikimedia.org/wiki/File:Gray-Scott_Lotus_(2125994225).jpg), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0).*
+
 ## The idea
 
 Every cell on the grid holds two amounts, A and B. Each step, both spread to their neighbours, A faster than B. Then the reaction runs: where two Bs meet one A, the A turns into B. A is fed in at rate f, and B is removed at rate k ([Karl Sims](https://www.karlsims.com/rd.html)). Two numbers, f and k, decide whether you get spots, stripes or labyrinths.

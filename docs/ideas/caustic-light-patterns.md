@@ -10,6 +10,9 @@ tags:
 
 > The bright, drifting net of light at the bottom of a pool, turned into a calm, liquid layer for the wall.
 
+![Bright, wobbling caustic light lines on the floor of a turquoise pool, seen through moving water](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Caustic_light_-_Flickr_-_fdecomite.jpg/1280px-Caustic_light_-_Flickr_-_fdecomite.jpg)
+*Bright, wobbling caustic light lines on the floor of a turquoise pool, seen through moving water. Image: [fdecomite](https://commons.wikimedia.org/wiki/File:Caustic_light_-_Flickr_-_fdecomite.jpg), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0).*
+
 ## The idea
 
 A caustic is the envelope of light rays reflected or refracted by a curved surface, or its projection onto another surface. The word comes from the Greek for "burnt". Rainbows are caustics too ([Wikipedia](https://en.wikipedia.org/wiki/Caustic_(optics))).

@@ -11,6 +11,9 @@ tags:
 
 > Time stops running evenly across the frame, so everything that moves turns into a ribbon and everything that stands still stays sharp.
 
+![Digital slit-scan of passers-by in a spiral projection; people become stretched time-streaks around a tunnel](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Spiral_Slitscan%3B_March_2010.jpg/1280px-Spiral_Slitscan%3B_March_2010.jpg)
+*Digital slit-scan of passers-by in a spiral projection; people become stretched time-streaks around a tunnel. Image: [Masakazu Matsumoto (vitroid)](https://commons.wikimedia.org/wiki/File:Spiral_Slitscan;_March_2010.jpg), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0).*
+
 ## The idea
 
 Think of video as a stack of frames: x, y and time. A normal player shows one slice at constant time. Slit-scan shows a different slice through the stack, so each part of the image comes from a different moment. Time becomes a spatial axis ([Rozin](http://www.smoothware.com/danny/timescan.html)).

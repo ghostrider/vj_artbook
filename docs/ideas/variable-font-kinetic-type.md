@@ -10,7 +10,8 @@ tags:
 
 > One typeface, one oversized word, and letters that swell, squash and lean on the beat without ever swapping a font.
 
-<!-- LEAD-IMAGE -->
+![Grid of the letter B interpolated along two axes (width and weight; labels in Swedish), showing how a variable font moves between masters](https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Interpolation_variable_fonts.png/1280px-Interpolation_variable_fonts.png)
+*Grid of the letter B interpolated along two axes (width and weight; labels in Swedish), showing how a variable font moves between masters. Image: [Krisduck](https://commons.wikimedia.org/wiki/File:Interpolation_variable_fonts.png), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).*
 
 ## The idea
 A variable font stores a few extreme designs and the rules to blend them. Each axis, such as weight or width, has a minimum and a maximum, and every value in between is valid ([variablefonts.io](https://variablefonts.io/about-variable-fonts/)). That makes a letter a continuous object. You can turn it from hairline to black with a fader.

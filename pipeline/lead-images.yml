@@ -1,0 +1,111 @@
+# Lead image per chapter. All licences read from the Wikimedia Commons file
+# description page / Commons API (extmetadata) on 2026-11-13.
+# Attribution required for every CC BY / CC BY-SA entry (author + licence + link).
+
+- slug: chladni-plate-patterns
+  file_page: "https://commons.wikimedia.org/wiki/File:Chladni_plate_18.jpg"
+  image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Chladni_plate_18.jpg/1280px-Chladni_plate_18.jpg"
+  title: "Chladni plate 18"
+  shows: "Square brass Chladni plate with sand gathered along the nodal lines (Matemateca IME-USP exhibit)."
+  author: "Exhibit made by Estes Objethos Atelier, photo by Rodrigo Tetsuo Argenton (Matemateca IME/USP)"
+  license: "CC BY-SA 4.0"
+  license_url: "https://creativecommons.org/licenses/by-sa/4.0"
+
+- slug: time-displacement-slit-scan
+  file_page: "https://commons.wikimedia.org/wiki/File:Spiral_Slitscan;_March_2010.jpg"
+  image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Spiral_Slitscan%3B_March_2010.jpg/1280px-Spiral_Slitscan%3B_March_2010.jpg"
+  title: "Spiral Slitscan, March 2010"
+  shows: "Digital slit-scan of passers-by in a spiral projection; people become stretched time-streaks around a tunnel."
+  author: "Masakazu Matsumoto (vitroid)"
+  license: "CC BY 2.0"
+  license_url: "https://creativecommons.org/licenses/by/2.0"
+
+- slug: clifford-strange-attractors
+  file_page: "https://commons.wikimedia.org/wiki/File:Clifford_att1.png"
+  image_url: "https://upload.wikimedia.org/wikipedia/commons/a/a7/Clifford_att1.png"
+  title: "Clifford attractor"
+  shows: "Density render of a Clifford attractor (a=1.5, b=-1.8, c=1.6, d=2) in blue on white, with the equations printed on the image."
+  author: "Yami89"
+  license: "Public domain"
+  license_url: null
+
+- slug: gray-scott-reaction-diffusion
+  file_page: "https://commons.wikimedia.org/wiki/File:Gray-Scott_Lotus_(2125994225).jpg"
+  image_url: "https://upload.wikimedia.org/wikipedia/commons/a/a3/Gray-Scott_Lotus_%282125994225%29.jpg"
+  title: "Gray-Scott Lotus"
+  shows: "Gray-Scott reaction-diffusion simulation with parameters varying radially: spots in the centre, labyrinth stripes at the edge (only 400x400 px)."
+  author: "Jonathan Lidbeck"
+  license: "CC BY 2.0"
+  license_url: "https://creativecommons.org/licenses/by/2.0"
+
+- slug: penrose-aperiodic-tilings
+  file_page: "https://commons.wikimedia.org/wiki/File:Penrose_Tiling_(Rhombi).svg"
+  image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Penrose_Tiling_%28Rhombi%29.svg/1280px-Penrose_Tiling_%28Rhombi%29.svg.png"
+  title: "Penrose Tiling (Rhombi)"
+  shows: "P3 Penrose tiling of thick and thin rhombi with exact five-fold symmetry."
+  author: "Inductiveload"
+  license: "Public domain"
+  license_url: null
+
+- slug: moire-interference-layers
+  file_page: "https://commons.wikimedia.org/wiki/File:Moire_Circles.svg"
+  image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Moire_Circles.svg/1280px-Moire_Circles.svg.png"
+  title: "Moire Circles"
+  shows: "Two overlapping sets of concentric circles whose interference forms ellipse and hyperbola moire fringes."
+  author: "SharkD"
+  license: "CC BY-SA 4.0"
+  license_url: "https://creativecommons.org/licenses/by-sa/4.0"
+
+- slug: rutt-etra-scan-lines
+  file_page: "https://commons.wikimedia.org/wiki/File:Vector_Synthesis-_Ocular_Pathogen_Transmission_(1080p).webm"
+  image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Vector_Synthesis-_Ocular_Pathogen_Transmission_%281080p%29.webm/1280px--Vector_Synthesis-_Ocular_Pathogen_Transmission_%281080p%29.webm.jpg"
+  title: "Vector Synthesis: Ocular Pathogen Transmission (video still)"
+  shows: "Still from a video of Rutt-Etra-style scan processing (Pure Data) on a Vectrex CRT: a photo becomes displaced blue scan lines. Not an original Rutt/Etra unit."
+  author: "macumbista"
+  license: "CC BY 3.0"
+  license_url: "https://creativecommons.org/licenses/by/3.0"
+
+- slug: sdf-raymarched-morphing-forms
+  file_page: "https://commons.wikimedia.org/wiki/File:Mandelbulb_fractal.png"
+  image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Mandelbulb_fractal.png/1280px-Mandelbulb_fractal.png"
+  title: "Mandelbulb fractal"
+  shows: "Power-8 Mandelbulb rendered with self-written CUDA ray-marching software (a distance-estimated, raymarched 3D form)."
+  author: "Falco Badermann"
+  license: "CC0"
+  license_url: "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+
+- slug: physarum-slime-mould-networks
+  file_page: "https://commons.wikimedia.org/wiki/File:Physarum_polycephalum_network.jpg"
+  image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Physarum_polycephalum_network.jpg/1280px-Physarum_polycephalum_network.jpg"
+  title: "Physarum polycephalum network"
+  shows: "Six-panel illustration (after Nakagaki's study) of slime mould growing from one food source into an optimised network linking food points over 26 hours."
+  author: "Tim Tim (VD fr)"
+  license: "CC BY-SA 4.0"
+  license_url: "https://creativecommons.org/licenses/by-sa/4.0"
+
+- slug: variable-font-kinetic-type
+  file_page: "https://commons.wikimedia.org/wiki/File:Interpolation_variable_fonts.png"
+  image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Interpolation_variable_fonts.png/1280px-Interpolation_variable_fonts.png"
+  title: "Interpolation variable fonts"
+  shows: "Grid of the letter B interpolated along two axes (width and weight; labels in Swedish), showing how a variable font moves between masters."
+  author: "Krisduck"
+  license: "CC BY-SA 4.0"
+  license_url: "https://creativecommons.org/licenses/by-sa/4.0"
+
+- slug: fischinger-visual-music
+  file_page: "https://commons.wikimedia.org/wiki/File:An_Evening_with_Oskar_Fischinger_-_San_Francisco_Museum_of_Art_-_23_February_1953.jpg"
+  image_url: "https://upload.wikimedia.org/wikipedia/commons/7/77/An_Evening_with_Oskar_Fischinger_-_San_Francisco_Museum_of_Art_-_23_February_1953.jpg"
+  title: "An Evening with Oskar Fischinger, 1953 (programme)"
+  shows: "Printed programme of a 1953 San Francisco Museum of Art evening with Fischinger's films and a Lumigraph demonstration. A text document, not a film still."
+  author: "San Francisco Museum of Art"
+  license: "Public domain (PD-US-no-notice; public domain in the US only)"
+  license_url: null
+
+- slug: caustic-light-patterns
+  file_page: "https://commons.wikimedia.org/wiki/File:Caustic_light_-_Flickr_-_fdecomite.jpg"
+  image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Caustic_light_-_Flickr_-_fdecomite.jpg/1280px-Caustic_light_-_Flickr_-_fdecomite.jpg"
+  title: "Caustic light"
+  shows: "Bright, wobbling caustic light lines on the floor of a turquoise pool, seen through moving water."
+  author: "fdecomite"
+  license: "CC BY 2.0"
+  license_url: "https://creativecommons.org/licenses/by/2.0"

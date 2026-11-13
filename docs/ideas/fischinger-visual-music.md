@@ -10,6 +10,9 @@ tags:
 
 > Circles, bars and dots land on the beat, then drift away into black: a shape sequencer in the language of a film pioneer.
 
+![Printed programme of a 1953 San Francisco Museum of Art evening with Fischinger's films and a Lumigraph demonstration. A text document, not a film still](https://upload.wikimedia.org/wikipedia/commons/7/77/An_Evening_with_Oskar_Fischinger_-_San_Francisco_Museum_of_Art_-_23_February_1953.jpg)
+*Printed programme of a 1953 San Francisco Museum of Art evening with Fischinger's films and a Lumigraph demonstration. A text document, not a film still. Image: [San Francisco Museum of Art](https://commons.wikimedia.org/wiki/File:An_Evening_with_Oskar_Fischinger_-_San_Francisco_Museum_of_Art_-_23_February_1953.jpg), Public domain (PD-US-no-notice; public domain in the US only).*
+
 ## The idea
 
 Oskar Fischinger placed every shape change on a musical event, frame by frame. The shapes are simple, so the eye reads the sync before it reads the content. A VJ does the same job with a MIDI note map: a kick fires a disc, a snare fires a bar, the hi-hats fire dots.

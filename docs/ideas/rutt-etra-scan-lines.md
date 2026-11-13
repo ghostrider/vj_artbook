@@ -10,6 +10,9 @@ tags:
 
 > A picture is torn into glowing rows, and brightness lifts each row off the screen until a face becomes a mountain range of light.
 
+![Still from a video of Rutt-Etra-style scan processing (Pure Data) on a Vectrex CRT: a photo becomes displaced blue scan lines. Not an original Rutt/Etra unit](https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Vector_Synthesis-_Ocular_Pathogen_Transmission_%281080p%29.webm/1280px--Vector_Synthesis-_Ocular_Pathogen_Transmission_%281080p%29.webm.jpg)
+*Still from a video of Rutt-Etra-style scan processing (Pure Data) on a Vectrex CRT: a photo becomes displaced blue scan lines. Not an original Rutt/Etra unit. Image: [macumbista](https://commons.wikimedia.org/wiki/File:Vector_Synthesis-_Ocular_Pathogen_Transmission_(1080p).webm), [CC BY 3.0](https://creativecommons.org/licenses/by/3.0).*
+
 ## The idea
 
 The Rutt/Etra Video Synthesizer, also called the Scan Processor, was an analog raster manipulator. It changed a video image by bending the electron beam of a CRT with electromagnetic deflection. Its co-inventors were Steve Rutt and Bill Etra ([Wikipedia](https://en.wikipedia.org/wiki/Rutt/Etra_Video_Synthesizer)). Image brightness pushed the scan lines in three axes, and a camera re-scanned the result ([Video History Project](https://www.videohistoryproject.org/node/5541)).

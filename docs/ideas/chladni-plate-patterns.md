@@ -10,6 +10,9 @@ tags:
 
 > Sand runs from the shaking parts of a plate to the still ones, and the lines it leaves behind turn into a light show.
 
+![Square brass Chladni plate with sand gathered along the nodal lines (Matemateca IME-USP exhibit)](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Chladni_plate_18.jpg/1280px-Chladni_plate_18.jpg)
+*Square brass Chladni plate with sand gathered along the nodal lines (Matemateca IME-USP exhibit). Image: [Exhibit made by Estes Objethos Atelier, photo by Rodrigo Tetsuo Argenton (Matemateca IME/USP)](https://commons.wikimedia.org/wiki/File:Chladni_plate_18.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).*
+
 ## The idea
 
 A thin plate has resonant modes. At a mode frequency the plate splits into regions that move up and down, separated by nodal lines that stay still. Sand is thrown off the moving regions and comes to rest on the nodal lines. Change the frequency and the figure dissolves, then forms again as a new one.

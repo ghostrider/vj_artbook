@@ -10,6 +10,9 @@ tags:
 
 > Two fields of fine lines, one tiny twist, and the whole wall starts to swim.
 
+![Two overlapping sets of concentric circles whose interference forms ellipse and hyperbola moire fringes](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Moire_Circles.svg/1280px-Moire_Circles.svg.png)
+*Two overlapping sets of concentric circles whose interference forms ellipse and hyperbola moire fringes. Image: [SharkD](https://commons.wikimedia.org/wiki/File:Moire_Circles.svg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).*
+
 ## The idea
 
 Lay one fine grating over another and slow, wide bands appear that are drawn in neither layer. They are the difference between the two patterns. Multiply two similar spatial frequencies and you get a difference frequency, and that is the band you see ([Michael Bach](https://michaelbach.de/ot/lum-moire1/)). It is the same math as the beat tone of two close pitches in audio ([Wikipedia](https://en.wikipedia.org/wiki/Moir%C3%A9_pattern)).

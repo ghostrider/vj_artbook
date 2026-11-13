@@ -10,6 +10,9 @@ tags:
 
 > Two lines of trigonometry, iterated a few million times, turn into a glowing veil that never sits still.
 
+![Density render of a Clifford attractor (a=1.5, b=-1.8, c=1.6, d=2) in blue on white, with the equations printed on the image](https://upload.wikimedia.org/wikipedia/commons/a/a7/Clifford_att1.png)
+*Density render of a Clifford attractor (a=1.5, b=-1.8, c=1.6, d=2) in blue on white, with the equations printed on the image. Image: [Yami89](https://commons.wikimedia.org/wiki/File:Clifford_att1.png), Public domain.*
+
 ## The idea
 The Clifford attractor is a two-dimensional iterated map. Take a point, feed it through two equations, take the result, repeat. Four numbers (a, b, c, d) decide the shape. The equations are `x' = sin(a·y) + c·cos(a·x)` and `y' = sin(b·x) + d·cos(b·y)` ([Bourke](https://paulbourke.net/fractals/clifford/)).
 
