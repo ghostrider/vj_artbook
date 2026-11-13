@@ -25,9 +25,10 @@ You get one slug. Find its entry in `pipeline/backlog.yml` and explore the idea 
 - **YouTube videos**: always search YouTube for the idea (e.g. `site:youtube.com <topic>`,
   plus the artists and works you found). If relevant videos exist, add 1–3 of them to
   Visual references: performances, artist documentation, live VJ sets or tutorials that show
-  the look in motion. Prefer the artist's or venue's official channel. Open each video page
-  and confirm the title, channel and description match; give the channel name in the
-  description line. Skip reuploads of other people's work, and skip videos you could not confirm.
+  the look in motion. Prefer the artist's or venue's official channel. Watch pages often hide
+  the channel and description from WebFetch, so confirm title and channel via
+  `https://www.youtube.com/oembed?url=<video URL>&format=json` (returns `title` and
+  `author_name`); give the channel name in the description line. Skip reuploads of other people's work, and skip videos you could not confirm.
 
 ## Output
 Write `pipeline/work/<slug>/research.md` with exactly these headings:
