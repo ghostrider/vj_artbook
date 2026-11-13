@@ -38,7 +38,11 @@ pipeline/
 - English for all book content. Short, concrete, practical. No filler.
 - Always cite sources as Markdown links. Never invent artists, works, URLs or dates.
   If something cannot be verified, leave it out.
-- Paraphrase; quote at most one short sentence per source. No copied images: link to them instead.
+- Paraphrase; quote at most one short sentence per source.
+- Images: every chapter shows one lead image of the idea, embedded from its source URL.
+  Never download or copy image files into the repo. Only public domain or free licences
+  (CC0, CC BY, CC BY-SA), checked on the file page, with author, licence and source credited
+  under the image. No NC/ND, no unknown licences. All other images: link to them.
 - Slugs: lowercase-kebab-case, unique, never renamed once published.
 - Never delete published chapters. Corrections are fine.
 - `pipeline/backlog.yml` must stay valid YAML. Edit only your own idea's entry.

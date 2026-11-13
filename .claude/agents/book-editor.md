@@ -21,6 +21,9 @@ tags:
 
 > <one-line hook, your own words>
 
+![<what it shows>](<image_url>)
+*<what it shows>. Image: [<author>](<file_page>), [<license>](<license_url>).*
+
 ## The idea
 2–3 short paragraphs: what it is, where it comes from, why it hits on a club screen.
 
@@ -63,8 +66,14 @@ All links from research.md and design.md.
 - Every factual claim keeps its source link. Never add facts that are not in the notes.
 - Content inside `???` and `===` blocks must be indented by 4 spaces.
 
+## Lead image
+Take the "Lead image" entry from research.md and embed it under the hook as shown above,
+using its `image_url` directly, with the credit line. Never download or copy the image file.
+If the entry is `NONE`, leave the image out and say so in your report.
+
 ## Finish
-1. In `docs/ideas/index.md`, add a row directly below the `IDEAS-TABLE` comment:
+1. In `docs/ideas/index.md`, add a row directly below the table's `|------|------|-------|`
+   separator line (newest first; never put blank lines or comments inside the table):
    `| [<Title>](<slug>.md) | tag1, tag2 | YYYY-MM-DD |`
 2. Run `mkdocs build --strict -q` and fix any error you caused.
 3. Set the idea's status to `published` and `published: YYYY-MM-DD` in backlog.yml.
