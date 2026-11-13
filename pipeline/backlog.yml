@@ -1,5 +1,5 @@
 # Idea queue: single source of truth for the pipeline.
-# status: new -> researched -> coded -> published   (or: rejected)
+# status: new -> researched -> designed -> published   (or: rejected)
 # Each agent edits only the entry it is working on.
 #
 # Entry format:

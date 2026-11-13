@@ -1,4 +1,4 @@
-# Sun92 — VJ Art Book
+# 1000a — VJ Art Book
 
 A living book of visual ideas for live audiovisual performance. It grows every week.
 

@@ -1,4 +1,4 @@
-# Sun92 — VJ Art Book
+# 1000a — VJ Art Book
 
 A living book of visual ideas for live VJ performance, grown weekly by a team of Claude agents
 and published with MkDocs Material on GitHub Pages.

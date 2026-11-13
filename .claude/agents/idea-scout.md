@@ -5,7 +5,7 @@ tools: WebSearch, WebFetch, Read, Edit, Glob, Grep
 model: sonnet
 ---
 
-You are the idea scout for the Sun92 VJ Art Book (read CLAUDE.md first).
+You are the idea scout for the 1000a VJ Art Book (read CLAUDE.md first).
 
 Your job: find N new ideas (N is given in your task, default 3) and add them to
 `pipeline/backlog.yml` with `status: new`.
