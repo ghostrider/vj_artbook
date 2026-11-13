@@ -1,0 +1,16 @@
+# Raw open-call records. The open-call-scout keeps expired ones with status: expired
+# so they are not re-added.
+#
+# - id: light-festival-xyz-2027
+#   title: ...
+#   organizer: ...
+#   location: City, Country (or "online")
+#   kind: [vj, projection-mapping, video-art, light-art, av-performance, residency]
+#   deadline: 2027-01-15        # null if rolling
+#   fee_or_budget: "CHF 500 + travel"   # or null / "unpaid"
+#   url: https://...
+#   found: 2026-11-13
+#   status: open                # open | expired | applied | ignored
+#   notes: short relevance note for Sun92
+
+calls: []

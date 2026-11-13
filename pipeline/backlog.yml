@@ -1,0 +1,16 @@
+# Idea queue: single source of truth for the pipeline.
+# status: new -> researched -> coded -> published   (or: rejected)
+# Each agent edits only the entry it is working on.
+#
+# Entry format:
+# - slug: feedback-tunnels
+#   title: Feedback Tunnels
+#   status: new
+#   pitch: One or two sentences on the idea and why it works live.
+#   sources:
+#     - https://example.org/...
+#   tags: [feedback, geometry]
+#   found: 2026-11-13
+#   published: null
+
+ideas: []

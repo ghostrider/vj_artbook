@@ -1,0 +1,42 @@
+site_name: Sun92 — VJ Art Book
+site_description: A growing collection of visual ideas for live VJ performance, with research and code.
+site_author: Sun92
+repo_name: vj-artbook
+
+theme:
+  name: material
+  palette:
+    - scheme: slate
+      primary: deep purple
+      accent: cyan
+  features:
+    - navigation.indexes
+    - navigation.top
+    - search.suggest
+    - content.code.copy
+
+plugins:
+  - search
+  - tags
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight
+  - pymdownx.snippets:
+      base_path: ["."]
+      check_paths: true
+  - pymdownx.tabbed:
+      alternate_style: true
+
+nav:
+  - Home: index.md
+  - Ideas: ideas/index.md
+  - Open Calls: open-calls.md
+  - Tags: tags.md
