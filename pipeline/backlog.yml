@@ -13,4 +13,15 @@
 #   found: 2026-11-13
 #   published: null
 
-ideas: []
+ideas:
+  - slug: chladni-plate-patterns
+    title: Chladni Plate Patterns
+    status: published
+    pitch: Standing-wave figures from the Chladni equation, with particles settling on the nodal lines. Map two mode frequencies to knobs or audio bands and the pattern morphs and snaps between figures on every drop.
+    sources:
+      - https://didgety.github.io/blog/2023/chladni_plate_simulation
+      - https://azrlog.dev/posts/chladni
+      - https://sidefx.com/docs/houdini/nodes/cop/chladni.html
+    tags: [physics, cymatics, particles, shader]
+    found: 2026-11-13
+    published: 2026-11-13
