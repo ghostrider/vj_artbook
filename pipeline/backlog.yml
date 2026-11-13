@@ -35,3 +35,93 @@ ideas:
     tags: [video, time, analog-video, feedback, camera]
     found: 2026-11-13
     published: 2026-11-13
+  - slug: gray-scott-reaction-diffusion
+    title: Gray-Scott Reaction-Diffusion
+    status: published
+    pitch: Two virtual chemicals diffuse and react on a grid and grow spots, stripes and coral-like labyrinths. Feed and kill rates map to knobs, and audio can inject chemical at the beat, so the organic texture mutates between regimes on a club screen.
+    sources:
+      - https://karlsims.com/rd.html
+    tags: [biology, simulation, shader, organic]
+    found: 2026-11-13
+    published: 2026-11-13
+  - slug: clifford-strange-attractors
+    title: Clifford Strange Attractors
+    status: published
+    pitch: Iterating a simple pair of trig equations and accumulating the point density gives delicate, silky attractor clouds. Four parameters morph the shape continuously, so slow knob moves or LFOs give flowing forms and a BPM-synced jump gives a hard cut.
+    sources:
+      - https://paulbourke.net/fractals/clifford/
+    tags: [math, attractors, particles, generative]
+    found: 2026-11-13
+    published: 2026-11-13
+  - slug: penrose-aperiodic-tilings
+    title: Penrose Aperiodic Tilings
+    status: published
+    pitch: Non-repeating tilings with five-fold symmetry, built by substitution or cut-and-project. Animate the subdivision level, colouring and a rotating projection angle so the tiling grows, shimmers and reorders on the beat.
+    sources:
+      - https://en.wikipedia.org/wiki/Penrose_tiling
+    tags: [math, tiling, geometry, ornament]
+    found: 2026-11-13
+    published: 2026-11-13
+  - slug: moire-interference-layers
+    title: Moire Interference Layers
+    status: published
+    pitch: Two or more fine line or dot grids laid over each other produce large, swimming interference bands from tiny shifts in rotation, pitch or offset. Op-art style and very cheap to render; a small knob movement makes the whole screen ripple.
+    sources:
+      - https://en.wikipedia.org/wiki/Moir%C3%A9_pattern
+    tags: [op-art, optics, interference, geometry]
+    found: 2026-11-13
+    published: 2026-11-13
+  - slug: rutt-etra-scan-lines
+    title: Rutt-Etra Scan-Line Displacement
+    status: published
+    pitch: Emulates the analog Rutt/Etra synthesizer, which bent the raster of a video image so brightness lifts scan lines into 3D relief. Do it live on a clip or camera feed with line count, displacement depth and rotation on knobs, and audio drives the height.
+    sources:
+      - https://en.wikipedia.org/wiki/Rutt/Etra_Video_Synthesizer
+    tags: [analog-video, 3d, lines, video]
+    found: 2026-11-13
+    published: 2026-11-13
+  - slug: sdf-raymarched-morphing-forms
+    title: SDF Raymarched Morphing Forms
+    status: published
+    pitch: Shapes defined as signed distance functions are rendered by sphere tracing, which allows smooth blends, repeats and twists impossible with meshes. Blend factor, domain repetition and camera path map to MIDI and BPM for an endlessly morphing 3D world in a single shader.
+    sources:
+      - https://en.wikipedia.org/wiki/Ray_marching
+    tags: [3d, raymarching, shader, generative]
+    found: 2026-11-13
+    published: 2026-11-13
+  - slug: physarum-slime-mould-networks
+    title: Physarum Slime Mould Networks
+    status: published
+    pitch: Thousands of agents follow and deposit trails, producing vein-like transport networks like those of the slime mould Physarum polycephalum. Sensor angle, decay and agent count are playable parameters, and a beat can scatter or attract the agents.
+    sources:
+      - https://en.wikipedia.org/wiki/Physarum_polycephalum
+    tags: [biology, agents, particles, network]
+    found: 2026-11-13
+    published: 2026-11-13
+  - slug: variable-font-kinetic-type
+    title: Variable Font Kinetic Typography
+    status: published
+    pitch: Variable fonts expose weight, width, slant and custom axes as continuous values, so a single typeface can breathe, stretch and pulse. Map the axes to knobs or audio bands to make words and lyric fragments move with the music.
+    sources:
+      - https://variablefonts.io/about-variable-fonts/
+    tags: [typography, text, motion, design]
+    found: 2026-11-13
+    published: 2026-11-13
+  - slug: fischinger-visual-music
+    title: Fischinger Visual Music
+    status: published
+    pitch: Oskar Fischinger animated abstract shapes in strict sync with music, a direct ancestor of VJing. Recreate his language of pulsing circles, bars and layered forms as a rhythm-driven shape sequencer triggered from MIDI notes.
+    sources:
+      - https://en.wikipedia.org/wiki/Oskar_Fischinger
+    tags: [art-history, visual-music, shapes, sync]
+    found: 2026-11-13
+    published: 2026-11-13
+  - slug: caustic-light-patterns
+    title: Caustic Light Patterns
+    status: published
+    pitch: The bright, shifting net of light that curved or rippled surfaces focus onto a floor, as at the bottom of a pool. A cheap procedural caustic shader with wave speed, scale and tint on knobs makes a calm, liquid, architectural layer for projection mapping.
+    sources:
+      - https://en.wikipedia.org/wiki/Caustic_(optics)
+    tags: [optics, light, water, shader]
+    found: 2026-11-13
+    published: 2026-11-13

@@ -32,7 +32,7 @@
 - **Bass:** slowly modulate the map, for example a sine wobble or noise, to ripple the time offsets.
 - **Hi-hats:** small jitter on slit position or a ticking step in map angle.
 - **BPM:** lock the scan-line sweep or map rotation to one bar, with MIDI faders for depth, angle, softness and feedback amount.
-- **Layering:** works as a processing layer on top of any clip, camera or feedback source. Blend the processed and unprocessed image with an opacity fader. Stacks well with kaleidoscope symmetry and feedback, as in Derivative's "Light Entity" tutorial (listed in a search result; not opened).
+- **Layering:** works as a processing layer on top of any clip, camera or feedback source. Blend the processed and unprocessed image with an opacity fader. Stacks well with kaleidoscope symmetry and feedback.
 - **Boring on a big screen:** a source with little motion, a fixed map that never changes, or too much depth, which produces mush. Keep a clear moving subject and vary the map.
 
 ## Variations
