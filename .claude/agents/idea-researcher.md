@@ -18,6 +18,16 @@ You get one slug. Find its entry in `pipeline/backlog.yml` and explore the idea 
   with other material; what would make it boring on a big screen
 - **Variations**: 3–5 twists that would make it 1000a's own
 - **Facts**: 3–6 surprising or useful facts, each with a source
+- **Visual references**: whenever possible, 3–6 links to existing screenshots, images or
+  videos that show the look (Shadertoy pages, YouTube/Vimeo videos, artist or project pages,
+  Wikimedia Commons image pages, gallery pages). Open each link and confirm it actually
+  shows the visual. Link only; never download or copy images.
+- **YouTube videos**: always search YouTube for the idea (e.g. `site:youtube.com <topic>`,
+  plus the artists and works you found). If relevant videos exist, add 1–3 of them to
+  Visual references: performances, artist documentation, live VJ sets or tutorials that show
+  the look in motion. Prefer the artist's or venue's official channel. Open each video page
+  and confirm the title, channel and description match; give the channel name in the
+  description line. Skip reuploads of other people's work, and skip videos you could not confirm.
 
 ## Output
 Write `pipeline/work/<slug>/research.md` with exactly these headings:
@@ -31,6 +41,7 @@ Write `pipeline/work/<slug>/research.md` with exactly these headings:
 ## Live potential
 ## Variations
 ## Facts
+## Visual references    - [Short title](URL) — what it shows, one line
 ## Sources
 ```
 

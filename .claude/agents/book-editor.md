@@ -30,6 +30,11 @@ Key artists and works as a short list with links.
 ## Visual language
 Shapes, motion, color, rhythm. Concrete enough that a VJ can picture it.
 
+## See it
+The links from "Visual references" in research.md, one per line:
+`- [Short title](URL) — what it shows`. Links only, no embedded or copied images.
+Leave the section out if research.md has no visual references.
+
 ## Code design
 Approach in a few sentences, summarise the designer's Input from design.md:
 
