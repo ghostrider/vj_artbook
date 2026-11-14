@@ -61,7 +61,7 @@ Where the tool has vertex shaders, the lines are real 3D strips displaced by the
     - Control: low-band audio analysis into an envelope (attack 5 ms, release 250 ms) added to `depth`. A beat counter sets `lines` to 24 times 2 to the power of (bar count mod 4). A slow LFO sets `roll` within 6 degrees.
     - Published parameters: depth, lines, tilt, width, scroll, occlude, palette.
 
-    In Resolume Arena, the designer's search found no built-in line displacement. Load the Wire effect on the source layer: Blur, then the effect, then Bloom, with the layer in Add mode. To colour the lines, group a colour clip in Multiply over it. Whether your Arena build loads ISF effects directly is unverified. Test it before the gig.
+    In Resolume Arena, the designer's search found no built-in line displacement. Load the Wire effect on the source layer: Blur, then the effect, then Bloom, with the layer in Add mode. To colour the lines, group a colour clip in Multiply over it. Resolume only documents ISF inside Wire, so test whether your Arena build loads ISF effects directly before the gig.
 
 === "Unreal Engine 5.7"
     The main route is a static line mesh displaced in the material through World Position Offset. Niagara ribbons are an alternative, but ribbon ordering at this count needs testing.

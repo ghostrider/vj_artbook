@@ -6,6 +6,16 @@ All chapters, newest first. This page is maintained by the book-editor agent.
 
 | Idea | Tags | Added |
 |------|------|-------|
+| [Aurora Curtain Simulation](aurora-curtain-simulation.md) | nature, light, atmosphere, shader | 2026-11-14 |
+| [Point Cloud Scan Worlds](point-cloud-scan-worlds.md) | photogrammetry, point-cloud, 3d, particles | 2026-11-14 |
+| [Moholy-Nagy Light-Space Modulator](moholy-nagy-light-space-modulator.md) | bauhaus, kinetic-art, light, shadow | 2026-11-14 |
+| [Albers Color Interaction](albers-color-interaction.md) | color-theory, op-art, bauhaus, geometry | 2026-11-14 |
+| [Datamosh Compression Glitch](datamosh-compression-glitch.md) | glitch, video, compression, datamosh | 2026-11-14 |
+| [Stable Fluids Ink and Smoke](stable-fluids-ink-smoke.md) | fluids, simulation, shader, flow | 2026-11-14 |
+| [Oscilloscope XY Vector Art](oscilloscope-xy-vector-art.md) | vector, laser, audio-reactive, lines | 2026-11-14 |
+| [Boids Murmuration Flocks](boids-murmuration-flocks.md) | nature, flocking, agents, particles | 2026-11-14 |
+| [Analog Video Feedback Loops](analog-video-feedback-loops.md) | feedback, analog-video, recursion, video | 2026-11-14 |
+| [L-System Growing Fractals](l-system-growing-fractals.md) | fractal, plants, grammar, generative | 2026-11-14 |
 | [Variable Font Kinetic Typography](variable-font-kinetic-type.md) | typography, text, motion, design | 2026-11-13 |
 | [Physarum Slime Mould Networks](physarum-slime-mould-networks.md) | biology, agents, particles, network | 2026-11-13 |
 | [Penrose Aperiodic Tilings](penrose-aperiodic-tilings.md) | math, tiling, geometry, ornament | 2026-11-13 |

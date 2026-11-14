@@ -125,3 +125,94 @@ ideas:
     tags: [optics, light, water, shader]
     found: 2026-11-13
     published: 2026-11-13
+  - slug: boids-murmuration-flocks
+    title: Boids Murmuration Flocks
+    status: published
+    pitch: Craig Reynolds' boids use three local rules (separation, alignment, cohesion) to make swarms that move like starling murmurations. Rule weights, predator position and flock size map to knobs and beats, so the flock twists, splits and regroups with the music.
+    sources:
+      - https://www.red3d.com/cwr/boids/
+    tags: [nature, flocking, agents, particles]
+    found: 2026-11-14
+    published: 2026-11-14
+  - slug: datamosh-compression-glitch
+    title: Datamosh Compression Glitch
+    status: published
+    pitch: Deliberately breaking video compression (dropped I-frames, repeated P-frames) makes motion from one clip smear and bloom across another image, as in Takeshi Murata's Monster Movie. Live, emulate it with motion-vector smearing and block corruption, with glitch amount and freeze on beat triggers.
+    sources:
+      - https://spotlightfx.com/blog/what-is-datamoshing
+      - https://en.wikipedia.org/wiki/Compression_artifact
+    tags: [glitch, video, compression, datamosh]
+    found: 2026-11-14
+    published: 2026-11-14
+  - slug: analog-video-feedback-loops
+    title: Analog Video Feedback Loops
+    status: published
+    pitch: A camera pointed at a monitor showing its own output creates recursive spirals and tunnels that grow and mutate. Emulate it with a zoom, rotate and colour-shift feedback chain; the transform values on knobs make living, self-generating patterns.
+    sources:
+      - https://en.wikipedia.org/wiki/Video_feedback
+    tags: [feedback, analog-video, recursion, video]
+    found: 2026-11-14
+    published: 2026-11-14
+  - slug: oscilloscope-xy-vector-art
+    title: Oscilloscope XY Vector Art
+    status: published
+    pitch: Feeding left and right audio channels to the X and Y inputs of an oscilloscope lets sound draw glowing vector line art, as in Jerobeam Fenderson's Oscilloscope Music. Render phosphor-style lines with Lissajous or audio-driven shapes; it gives a laser-like look that reacts to the music directly.
+    sources:
+      - https://www.creativeapplications.net/project/oscilloscope-music-jerobeam-fenderson-and-hansi-raber/
+    tags: [vector, laser, audio-reactive, lines]
+    found: 2026-11-14
+    published: 2026-11-14
+  - slug: l-system-growing-fractals
+    title: L-System Growing Fractals
+    status: published
+    pitch: Lindenmayer's string-rewriting grammars grow fractal plants, trees and curves from a few rules. Iteration depth, branch angle and growth speed map to MIDI, so a tree sprouts and sways in time with the beat.
+    sources:
+      - https://en.wikipedia.org/wiki/L-system
+    tags: [fractal, plants, grammar, generative]
+    found: 2026-11-14
+    published: 2026-11-14
+  - slug: stable-fluids-ink-smoke
+    title: Stable Fluids Ink and Smoke
+    status: published
+    pitch: A GPU solver based on Stam's stable fluids advects colour through a velocity field to give swirling ink and smoke. Splat positions, viscosity and vorticity can be driven by MIDI notes or audio peaks, which makes tactile flowing visuals.
+    sources:
+      - https://developer.nvidia.com/gpugems/gpugems/part-vi-beyond-triangles/chapter-38-fast-fluid-dynamics-simulation-gpu
+    tags: [fluids, simulation, shader, flow]
+    found: 2026-11-14
+    published: 2026-11-14
+  - slug: albers-color-interaction
+    title: Albers Color Interaction
+    status: published
+    pitch: Josef Albers' Interaction of Color shows how one colour looks different in another context, using simple nested squares and stripes. Animate colour pairs and palettes on a grid of flat shapes, with hue shifts on knobs and beat-triggered swaps, to make colour itself the performance.
+    sources:
+      - https://www.albersfoundation.org/alberses/teaching/interaction-of-color
+    tags: [color-theory, op-art, bauhaus, geometry]
+    found: 2026-11-14
+    published: 2026-11-14
+  - slug: moholy-nagy-light-space-modulator
+    title: Moholy-Nagy Light-Space Modulator
+    status: published
+    pitch: Bauhaus artist Moholy-Nagy built kinetic light machines whose moving metal and glass parts cast shifting shadows and reflections. Recreate this as a virtual rotating sculpture with moving lights and shadow projections, with rotation speed and light angle on MIDI.
+    sources:
+      - https://en.wikipedia.org/wiki/L%C3%A1szl%C3%B3_Moholy-Nagy
+    tags: [bauhaus, kinetic-art, light, shadow]
+    found: 2026-11-14
+    published: 2026-11-14
+  - slug: aurora-curtain-simulation
+    title: Aurora Curtain Simulation
+    status: published
+    pitch: Auroras are glowing curtains of green and violet light in the upper atmosphere, caused by solar particles hitting oxygen and nitrogen. A layered noise shader with wave speed, height and colour on knobs gives a slow, huge, atmospheric backdrop that swells on audio.
+    sources:
+      - https://en.wikipedia.org/wiki/Aurora
+    tags: [nature, light, atmosphere, shader]
+    found: 2026-11-14
+    published: 2026-11-14
+  - slug: point-cloud-scan-worlds
+    title: Point Cloud Scan Worlds
+    status: published
+    pitch: Photogrammetry and 3D scans produce point clouds, sets of coloured 3D points that can be rendered as glittering particles. Play with point size, noise displacement, slicing planes and camera fly-through to dissolve real places into dust on the beat.
+    sources:
+      - https://en.wikipedia.org/wiki/Point_cloud
+    tags: [photogrammetry, point-cloud, 3d, particles]
+    found: 2026-11-14
+    published: 2026-11-14
