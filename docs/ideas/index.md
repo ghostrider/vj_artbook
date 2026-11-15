@@ -6,6 +6,9 @@ All chapters, newest first. This page is maintained by the book-editor agent.
 
 | Idea | Tags | Added |
 |------|------|-------|
+| [Pulsar Ridgeline Waveforms](pulsar-ridgeline-waveforms.md) | astronomy, lines, audio-reactive, graphic | 2026-11-15 |
+| [Demoscene Classic Effects](demoscene-classic-effects.md) | demoscene, retro, shader, plasma | 2026-11-15 |
+| [Hyperbolic Poincare Tilings](hyperbolic-poincare-tilings.md) | math, hyperbolic, tiling, shader, escher | 2026-11-15 |
 | [Aurora Curtain Simulation](aurora-curtain-simulation.md) | nature, light, atmosphere, shader | 2026-11-14 |
 | [Point Cloud Scan Worlds](point-cloud-scan-worlds.md) | photogrammetry, point-cloud, 3d, particles | 2026-11-14 |
 | [Moholy-Nagy Light-Space Modulator](moholy-nagy-light-space-modulator.md) | bauhaus, kinetic-art, light, shadow | 2026-11-14 |

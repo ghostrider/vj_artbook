@@ -216,3 +216,32 @@ ideas:
     tags: [photogrammetry, point-cloud, 3d, particles]
     found: 2026-11-14
     published: 2026-11-14
+  - slug: hyperbolic-poincare-tilings
+    title: Hyperbolic Poincare Tilings
+    status: published
+    pitch: Tilings of the hyperbolic plane shown in the Poincare disk, the geometry behind Escher's Circle Limit prints, crowd infinitely many shrinking tiles toward the rim. Tiling type, disk translation and rotation map to knobs and BPM, so the viewer seems to fly through an endless, curved ornament.
+    sources:
+      - https://archive.bridgesmathart.org/2024/bridges2024-4.html
+      - https://www.github.com/looeee/hyperbolic-tiling
+    tags: [math, hyperbolic, tiling, shader, escher]
+    found: 2026-11-15
+    published: 2026-11-15
+  - slug: demoscene-classic-effects
+    title: Demoscene Classic Effects
+    status: published
+    pitch: Plasma, raster (copper) bars, rotozoomers and tunnels, the sine-based real-time tricks of the demoscene, are cheap shaders with a strong retro look. Sine frequencies, palette cycling and bar count go on knobs, and BPM drives the phase for a hard club-ready 90s feel.
+    sources:
+      - https://en.wikipedia.org/wiki/Demo_effect
+      - https://hugi.scene.org/online/coding/hugi 24 - coding graphics bonz sines and cosines for fun and profit.htm
+    tags: [demoscene, retro, shader, plasma]
+    found: 2026-11-15
+    published: 2026-11-15
+  - slug: pulsar-ridgeline-waveforms
+    title: Pulsar Ridgeline Waveforms
+    status: published
+    pitch: The CP 1919 pulsar plot of stacked pulse profiles, famous from the Unknown Pleasures cover, as a live 3D ridgeline display. Each line is a time slice of an audio or noise signal with hidden-line occlusion; line count, spacing, tilt and pulse amplitude respond to audio and MIDI.
+    sources:
+      - https://www.scientificamerican.com/article/the-pulsar-chart-that-became-a-pop-icon-turns-50-joy-division-rsquo-s-unknown-pleasures/
+    tags: [astronomy, lines, audio-reactive, graphic]
+    found: 2026-11-15
+    published: 2026-11-15
