@@ -13,4 +13,114 @@
 #   status: open                # open | expired | applied | ignored
 #   notes: short relevance note for 1000a
 
-calls: []
+calls:
+  - id: amsterdam-light-festival-2027-28
+    title: "Amsterdam Light Festival, Edition 16 (2027-28) General Open Call"
+    organizer: "Amsterdam Light Festival"
+    location: "Amsterdam, Netherlands"
+    kind: [light-art, projection-mapping]
+    deadline: 2026-12-07
+    fee_or_budget: "Technical and financial support from the festival (amount not stated on page)"
+    url: https://amsterdamlightfestival.com/en/open-call
+    found: 2026-11-16
+    status: open
+    notes: "Worldwide call for light artworks on the canals (festival 25 Nov 2027 - 16 Jan 2028). Existing works accepted; submit a concept via the portal using the template in the Artist Briefing. Fits a UE5/real-time light concept."
+  - id: lichtrouten-real-time-2027
+    title: "Lichtrouten Open Call Media Art: Real Time"
+    organizer: "Lichtrouten"
+    location: "Luedenscheid, Germany"
+    kind: [projection-mapping, video-art]
+    deadline: 2026-08-16
+    fee_or_budget: "EUR 1,000 (existing work) / EUR 4,000 (site-specific)"
+    url: https://lichtrouten.de/en/open-call-media-art/
+    found: 2026-11-16
+    status: expired
+    notes: "Facade projection call, exhibition 11-20 Mar 2027. Expired."
+  - id: faro-videomapping-2026
+    title: "Faro International Videomapping Festival 2026"
+    organizer: "Algarve Design Meeting / UAlg"
+    location: "Faro, Portugal"
+    kind: [projection-mapping]
+    deadline: 2026-05-03
+    fee_or_budget: "Free entry; Best Videomapping Award EUR 500"
+    url: https://algarvedesignmeeting.ualg.pt/videomapping/
+    found: 2026-11-16
+    status: expired
+    notes: "Expired. Check for the 2027 edition."
+  - id: reykjavik-winter-lights-2027
+    title: "Winter Lights Festival 2027 light art competition"
+    organizer: "City of Reykjavik"
+    location: "Reykjavik, Iceland"
+    kind: [light-art]
+    deadline: 2026-11-15
+    fee_or_budget: "ISK 1,000,000 per project (development and fee), 2 projects"
+    url: https://reykjavik.is/en/news/2026/competition-light-art-winter-lights-festival-2027
+    found: 2026-11-16
+    status: expired
+    notes: "Open to anyone incl. computer scientists. Expired 2026-11-15."
+  - id: imaginarius-2027
+    title: "Imaginarius 2027 international open call"
+    organizer: "Imaginarius"
+    location: "Santa Maria da Feira, Portugal"
+    kind: [av-performance, light-art]
+    deadline: 2026-07-30
+    fee_or_budget: null
+    url: https://www.imaginarius.pt/en/international-open-call/
+    found: 2026-11-16
+    status: expired
+    notes: "Street arts festival 20-22 May 2027. Deadline per BBK Sachsen-Anhalt listing; official page not fetched. Expired."
+  - id: copenhagen-light-festival-2027
+    title: "Copenhagen Light Festival 2027 call"
+    organizer: "Copenhagen Light Festival"
+    location: "Copenhagen, Denmark"
+    kind: [light-art]
+    deadline: 2026-05-11
+    fee_or_budget: "Budget tiers up to DKK 250,000"
+    url: https://www.bbk-sachsenanhalt.de/?p=36222
+    found: 2026-11-16
+    status: expired
+    notes: "Expired. Listing on BBK Sachsen-Anhalt; official site not located."
+  - id: emap-residency-2027
+    title: "European Media Art Platform (EMAP) Residency 2027"
+    organizer: "EMARE / EMAP"
+    location: "Europe"
+    kind: [residency]
+    deadline: 2026-11-06
+    fee_or_budget: "EUR 4,000 artist grant + EUR 4,000 project budget + travel and accommodation"
+    url: https://call.emare.eu
+    found: 2026-11-16
+    status: expired
+    notes: "Expired 2026-11-06. Listing via On the Move; check 2028 call."
+  - id: ctm-in-listening-2027
+    title: "CTM 2027 In Listening open call"
+    organizer: "CTM Festival"
+    location: "Berlin, Germany"
+    kind: [av-performance]
+    deadline: 2026-09-06
+    fee_or_budget: "EUR 6,000 per work"
+    url: https://www.ctm-festival.de/festival-2027/open-calls/in-listening-2027
+    found: 2026-11-16
+    status: expired
+    notes: "Sound-art focus, no video. Expired."
+  - id: mutek-montreal-2026
+    title: "MUTEK Montreal 2026 call for projects"
+    organizer: "MUTEK"
+    location: "Montreal, Canada"
+    kind: [av-performance, vj]
+    deadline: 2026-01-31
+    fee_or_budget: null
+    url: https://montreal.mutek.org/en/news/call-for-projects-2026
+    found: 2026-11-16
+    status: expired
+    notes: "AV performance call. Expired; watch for the 2027 call."
+  - id: rendr-festival-2026-ava
+    title: "RENDR Festival 2026 Audio Visual Art Open Call"
+    organizer: "RENDR Festival"
+    location: "n/a"
+    kind: [av-performance, light-art]
+    deadline: 2025-07-25
+    fee_or_budget: "Artist fee for top 3 (amount not stated)"
+    url: https://www.rendrfestival.com/ava-open-call-2026
+    found: 2026-11-16
+    status: expired
+    notes: "Expired. Watch for the 2027 edition."
