@@ -124,3 +124,14 @@ calls:
     found: 2026-11-16
     status: expired
     notes: "Expired. Watch for the 2027 edition."
+  - id: currents-2027-santa-fe
+    title: "CURRENTS 2027 Art & Technology Festival artist submissions"
+    organizer: "CURRENTS New Media (Santa Fe)"
+    location: "Santa Fe, New Mexico, USA (festival 11-20 Jun 2027)"
+    kind: [av-performance, video-art, light-art]
+    deadline: 2026-12-08
+    fee_or_budget: "Entry fee USD 30 (USD 25 each for multiple entries); artist fee not stated; travel/lodging support possible for some categories"
+    url: https://currentsnewmedia.org/submission-guidelines-2027/
+    found: 2026-11-17
+    status: open
+    notes: "Categories incl. installations, VR/AR/MR, multimedia performance, experimental single-channel video (max 12 min). Submit an online form with work samples (Vimeo/site), images and work statement, e.g. a UE5 real-time installation or AV performance. Deadline 11:59 pm MST."
