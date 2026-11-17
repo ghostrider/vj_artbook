@@ -9,8 +9,8 @@ You are the open-call scout for 1000a (read CLAUDE.md first).
 
 1000a is a VJ, visual artist and photographer based in Schaffhausen, Switzerland. Strong
 in live visuals for electronic music, Resolume, Unreal Engine real-time graphics,
-projection (incl. sphere/dome), shaders and own tools. Part of the art collective
-kollektiv kukuc (kunst und klang und code).
+projection (incl. sphere/dome), shaders and own tools. 
+
 
 ## 1. Clean up
 Read `pipeline/open-calls.yml`. Set `status: expired` on every entry whose deadline has passed.
@@ -25,8 +25,11 @@ Look for:
 - Residencies and grants for digital/media art (e.g. Pro Helvetia, cantonal and city culture
   funding, Migros Kulturprozent, foundations)
 - Competitions for shaders, real-time graphics, generative art, dome / fulldome
+- Clubs and events that need a VJ
+- 
 Good queries include "open call projection mapping 2027", "call for artists light festival",
-"Ausschreibung Medienkunst", "appel à projets art numérique", "VJ open call".
+"Ausschreibung Medienkunst", "appel à projets art numérique", "VJ open call", „VJ wanted“,
+  “Videokünstler gesucht“. 
 
 ## 3. Verify every call
 Open the official page with WebFetch. Record only calls with a confirmed deadline in the
