@@ -245,3 +245,32 @@ ideas:
     tags: [astronomy, lines, audio-reactive, graphic]
     found: 2026-11-15
     published: 2026-11-15
+  - slug: truchet-tile-weaving
+    title: Truchet Tile Weaving
+    status: published
+    pitch: A grid of simple square tiles, each rotated or flipped at random, joins into endless woven mazes, arcs and knots. Animate tile rotation as a wave or on the beat, and shift the random seed or scale levels with knobs, so the ornament re-weaves itself on every drop.
+    sources:
+      - https://en.wikipedia.org/wiki/Truchet_tile
+      - https://chalkdustmagazine.com/features/when-truchet-met-chladni/
+    tags: [tiling, ornament, generative, shader]
+    found: 2026-11-18
+    published: 2026-11-18
+  - slug: kuramoto-firefly-synchronization
+    title: Kuramoto Firefly Synchronization
+    status: published
+    pitch: The Kuramoto model describes many oscillators, like fireflies or clapping crowds, that start out of phase and pull each other into sync. Show them as a field of pulsing lights or rings; coupling strength and frequency spread on knobs take the swarm from chaos to a single unison flash, and a beat can reset the phases.
+    sources:
+      - https://en.wikipedia.org/wiki/Kuramoto_model
+    tags: [physics, biology, oscillators, sync]
+    found: 2026-11-18
+    published: 2026-11-18
+  - slug: whitney-digital-harmonics
+    title: Whitney Digital Harmonics
+    status: published
+    pitch: John Whitney built computer animation on harmonic motion, where points move on paths whose speeds are in simple ratios, so rosettes bloom and resolve into order in tune with music theory. Recreate it with a point-ring system whose ratio, phase and trail length map to MIDI, so patterns tension and resolve like chords.
+    sources:
+      - https://en.wikipedia.org/wiki/John_Whitney_(animator)
+      - https://visualmusicarchive.org/reading/r/digital-harmony.html
+    tags: [visual-music, art-history, harmonics, geometry]
+    found: 2026-11-18
+    published: 2026-11-18

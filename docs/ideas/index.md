@@ -6,6 +6,9 @@ All chapters, newest first. This page is maintained by the book-editor agent.
 
 | Idea | Tags | Added |
 |------|------|-------|
+| [Whitney Digital Harmonics](whitney-digital-harmonics.md) | visual-music, art-history, harmonics, geometry | 2026-11-18 |
+| [Kuramoto Firefly Synchronization](kuramoto-firefly-synchronization.md) | physics, biology, oscillators, sync | 2026-11-18 |
+| [Truchet Tile Weaving](truchet-tile-weaving.md) | tiling, ornament, generative, shader | 2026-11-18 |
 | [Pulsar Ridgeline Waveforms](pulsar-ridgeline-waveforms.md) | astronomy, lines, audio-reactive, graphic | 2026-11-15 |
 | [Demoscene Classic Effects](demoscene-classic-effects.md) | demoscene, retro, shader, plasma | 2026-11-15 |
 | [Hyperbolic Poincare Tilings](hyperbolic-poincare-tilings.md) | math, hyperbolic, tiling, shader, escher | 2026-11-15 |
