@@ -6,6 +6,7 @@ All chapters, newest first. This page is maintained by the book-editor agent.
 
 | Idea | Tags | Added |
 |------|------|-------|
+| [Borromean Rings](borromean-rings.md) | topology, sculpture, geometry, 3d | 2026-11-20 |
 | [Whitney Digital Harmonics](whitney-digital-harmonics.md) | visual-music, art-history, harmonics, geometry | 2026-11-18 |
 | [Kuramoto Firefly Synchronization](kuramoto-firefly-synchronization.md) | physics, biology, oscillators, sync | 2026-11-18 |
 | [Truchet Tile Weaving](truchet-tile-weaving.md) | tiling, ornament, generative, shader | 2026-11-18 |

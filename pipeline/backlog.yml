@@ -274,3 +274,12 @@ ideas:
     tags: [visual-music, art-history, harmonics, geometry]
     found: 2026-11-18
     published: 2026-11-18
+  - slug: borromean-rings
+    title: Borromean Rings
+    status: published
+    pitch: Three loops, no two of them linked, yet the three cannot be pulled apart; cut one and all fall free. Tom and Koos Verhoeff build them as mitered beam sculptures (hexagons, cube weavings, braids), and Charles Gunn and John M. Sullivan made a video about the Borromean IMU logo. Turn the link into a live 3D object whose rings rotate, morph between families and "cut" free on the drop.
+    sources:
+      - https://archive.bridgesmathart.org/2015/bridges2015-53.pdf
+    tags: [topology, sculpture, geometry, 3d]
+    found: 2026-11-20
+    published: 2026-11-20
