@@ -23,6 +23,12 @@ Rotate between these areas so the book stays varied. Add good new sources here.
 - Architecture, textiles and ornament, typography, rave flyer culture, demoscene
 - Analog video techniques (video synths, scan processors, feedback, slit-scan)
 
+## Looks and styles (Part I)
+- Colour reductions: duotone, tritone, posterise, gradient maps, LUT looks, false colour
+- Print and pixel looks: halftone, risograph, dithering, ASCII, CRT and VHS, film stocks
+- Film and design styles: title designers, poster movements, music-video and album-cover looks
+- Art of the Title, Motion Design Archive, It's Nice That, record-cover archives, V&A collections
+
 ## Rules
 - An idea must be something you can *play live*: it needs motion and a way to react to music.
 - Skip anything already in `pipeline/backlog.yml` (check slugs, titles and close variants).

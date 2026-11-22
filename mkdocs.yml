@@ -37,6 +37,9 @@ markdown_extensions:
 
 nav:
   - Home: index.md
-  - Ideas: ideas/index.md
+  - Ideas:
+      - ideas/index.md
+      - 'Part I: Looks and Styles': ideas/looks.md
+      - 'Part II: Generative Visuals': ideas/visuals.md
   - Open Calls: open-calls.md
   - Tags: tags.md

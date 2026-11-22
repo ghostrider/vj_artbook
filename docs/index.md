@@ -10,5 +10,8 @@ and follows it all the way to the stage:
 - **In code**: a runnable ISF/GLSL shader for Resolume, plus notes for Wire and Unreal
 - **On stage**: how to play it live with MIDI, BPM and layering
 
+The book has two parts: **[Looks and Styles](ideas/looks.md)** (treatments for any footage)
+and **[Generative Visuals](ideas/visuals.md)** (systems that make the image).
+
 [Browse all ideas](ideas/index.md){ .md-button .md-button--primary }
 [Open calls](open-calls.md){ .md-button }

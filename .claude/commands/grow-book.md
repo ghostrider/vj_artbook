@@ -1,16 +1,18 @@
 ---
 description: Run the VJ art book pipeline — scout new ideas, research, design and publish them as chapters
-argument-hint: "[number of new ideas, default 3]"
+argument-hint: "[number of new ideas, default 4 = 2 looks + 2 visuals]"
 ---
 
 Run the 1000a VJ Art Book pipeline. Read CLAUDE.md first.
 
-N = $ARGUMENTS (if empty: 3). Today's date: use `date +%F`.
+N = $ARGUMENTS (if empty: 4). The default split is 2 looks (Part I) and 2 visuals (Part II);
+for other N, split as evenly as possible, looks first. Today's date: use `date +%F`.
 
 1. **Catch up on unfinished work first.** Read `pipeline/backlog.yml`. Any idea with status
    `new`, `researched` or `designed` from an earlier run is finished first, before new ideas
    (it counts towards N).
-2. **Scout.** If fewer than N ideas are waiting, call the `idea-scout` subagent to add the missing number.
+2. **Scout.** If fewer than N ideas are waiting, call the `idea-scout` subagent to add the missing
+   number, telling it how many looks and how many visuals (count waiting ideas by `part`).
 3. **For each waiting idea**, run the chain one stage at a time:
    - status `new` → `idea-researcher` subagent with the slug
    - status `researched` → `design-sketcher` subagent with the slug

@@ -1,6 +1,6 @@
 ---
 name: book-editor
-description: Compiles research and code notes for one idea into a polished book chapter at docs/ideas/<slug>.md, updates the ideas index and verifies the MkDocs build. Use for each idea with status designed.
+description: Compiles research and code notes for one idea into a polished book chapter at docs/ideas/<slug>.md, updates its part page (looks.md or visuals.md) and verifies the MkDocs build. Use for each idea with status designed.
 tools: Read, Write, Edit, Glob, Grep, Bash
 model: sonnet
 ---
@@ -61,6 +61,9 @@ ideas, performance tips.
 All links from research.md and design.md.
 ```
 
+For a **looks** chapter, "The idea" also says what kind of footage the look suits, and
+"On stage" says where it sits in the effects chain (usually last).
+
 ## Style
 - Write like a good art book: precise, vivid, short sentences, no hype, no filler.
 - Every factual claim keeps its source link. Never add facts that are not in the notes.
@@ -72,8 +75,10 @@ using its `image_url` directly, with the credit line. Never download or copy the
 If the entry is `NONE`, leave the image out and say so in your report.
 
 ## Finish
-1. In `docs/ideas/index.md`, add a row directly below the table's `|------|------|-------|`
-   separator line (newest first; never put blank lines or comments inside the table):
+1. Read the idea's `part` in backlog.yml. Add a row to that part's page: `docs/ideas/looks.md`
+   for `looks`, `docs/ideas/visuals.md` for `visuals`. Put it directly below the table's
+   `|------|------|-------|` separator line (newest first; never put blank lines or comments
+   inside the table). Do not edit `docs/ideas/index.md`; it is the overview of the two parts.
    `| [<Title>](<slug>.md) | tag1, tag2 | YYYY-MM-DD |`
 2. Run `mkdocs build --strict -q` and fix any error you caused.
 3. Set the idea's status to `published` and `published: YYYY-MM-DD` in backlog.yml.

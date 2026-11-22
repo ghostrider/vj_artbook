@@ -6,6 +6,7 @@
 # - slug: feedback-tunnels
 #   title: Feedback Tunnels
 #   status: new
+#   part: visuals            # looks (treatments/styles applied to footage) | visuals (generators, simulations, scenes)
 #   pitch: One or two sentences on the idea and why it works live.
 #   sources:
 #     - https://example.org/...
@@ -17,6 +18,7 @@ ideas:
   - slug: chladni-plate-patterns
     title: Chladni Plate Patterns
     status: published
+    part: visuals
     pitch: Standing-wave figures from the Chladni equation, with particles settling on the nodal lines. Map two mode frequencies to knobs or audio bands and the pattern morphs and snaps between figures on every drop.
     sources:
       - https://didgety.github.io/blog/2023/chladni_plate_simulation
@@ -28,6 +30,7 @@ ideas:
   - slug: time-displacement-slit-scan
     title: Time-Displacement Slit-Scan
     status: published
+    part: looks
     pitch: Slit-scan builds an image from thin slices taken over time, so a video stream smears into flowing, time-warped streaks, from the 2001 Stargate look to Rozin's Time Scan Mirror. Run it on a live feed or clip with a time-offset map; scan position, slit angle and delay depth map to knobs or BPM, and the screen bends with every beat.
     sources:
       - https://flong.com/archive/texts/lists/slit_scan/index.html
@@ -38,6 +41,7 @@ ideas:
   - slug: gray-scott-reaction-diffusion
     title: Gray-Scott Reaction-Diffusion
     status: published
+    part: visuals
     pitch: Two virtual chemicals diffuse and react on a grid and grow spots, stripes and coral-like labyrinths. Feed and kill rates map to knobs, and audio can inject chemical at the beat, so the organic texture mutates between regimes on a club screen.
     sources:
       - https://karlsims.com/rd.html
@@ -47,6 +51,7 @@ ideas:
   - slug: clifford-strange-attractors
     title: Clifford Strange Attractors
     status: published
+    part: visuals
     pitch: Iterating a simple pair of trig equations and accumulating the point density gives delicate, silky attractor clouds. Four parameters morph the shape continuously, so slow knob moves or LFOs give flowing forms and a BPM-synced jump gives a hard cut.
     sources:
       - https://paulbourke.net/fractals/clifford/
@@ -56,6 +61,7 @@ ideas:
   - slug: penrose-aperiodic-tilings
     title: Penrose Aperiodic Tilings
     status: published
+    part: visuals
     pitch: Non-repeating tilings with five-fold symmetry, built by substitution or cut-and-project. Animate the subdivision level, colouring and a rotating projection angle so the tiling grows, shimmers and reorders on the beat.
     sources:
       - https://en.wikipedia.org/wiki/Penrose_tiling
@@ -65,6 +71,7 @@ ideas:
   - slug: moire-interference-layers
     title: Moire Interference Layers
     status: published
+    part: visuals
     pitch: Two or more fine line or dot grids laid over each other produce large, swimming interference bands from tiny shifts in rotation, pitch or offset. Op-art style and very cheap to render; a small knob movement makes the whole screen ripple.
     sources:
       - https://en.wikipedia.org/wiki/Moir%C3%A9_pattern
@@ -74,6 +81,7 @@ ideas:
   - slug: rutt-etra-scan-lines
     title: Rutt-Etra Scan-Line Displacement
     status: published
+    part: looks
     pitch: Emulates the analog Rutt/Etra synthesizer, which bent the raster of a video image so brightness lifts scan lines into 3D relief. Do it live on a clip or camera feed with line count, displacement depth and rotation on knobs, and audio drives the height.
     sources:
       - https://en.wikipedia.org/wiki/Rutt/Etra_Video_Synthesizer
@@ -83,6 +91,7 @@ ideas:
   - slug: sdf-raymarched-morphing-forms
     title: SDF Raymarched Morphing Forms
     status: published
+    part: visuals
     pitch: Shapes defined as signed distance functions are rendered by sphere tracing, which allows smooth blends, repeats and twists impossible with meshes. Blend factor, domain repetition and camera path map to MIDI and BPM for an endlessly morphing 3D world in a single shader.
     sources:
       - https://en.wikipedia.org/wiki/Ray_marching
@@ -92,6 +101,7 @@ ideas:
   - slug: physarum-slime-mould-networks
     title: Physarum Slime Mould Networks
     status: published
+    part: visuals
     pitch: Thousands of agents follow and deposit trails, producing vein-like transport networks like those of the slime mould Physarum polycephalum. Sensor angle, decay and agent count are playable parameters, and a beat can scatter or attract the agents.
     sources:
       - https://en.wikipedia.org/wiki/Physarum_polycephalum
@@ -101,6 +111,7 @@ ideas:
   - slug: variable-font-kinetic-type
     title: Variable Font Kinetic Typography
     status: published
+    part: visuals
     pitch: Variable fonts expose weight, width, slant and custom axes as continuous values, so a single typeface can breathe, stretch and pulse. Map the axes to knobs or audio bands to make words and lyric fragments move with the music.
     sources:
       - https://variablefonts.io/about-variable-fonts/
@@ -110,6 +121,7 @@ ideas:
   - slug: fischinger-visual-music
     title: Fischinger Visual Music
     status: published
+    part: visuals
     pitch: Oskar Fischinger animated abstract shapes in strict sync with music, a direct ancestor of VJing. Recreate his language of pulsing circles, bars and layered forms as a rhythm-driven shape sequencer triggered from MIDI notes.
     sources:
       - https://en.wikipedia.org/wiki/Oskar_Fischinger
@@ -119,6 +131,7 @@ ideas:
   - slug: caustic-light-patterns
     title: Caustic Light Patterns
     status: published
+    part: visuals
     pitch: The bright, shifting net of light that curved or rippled surfaces focus onto a floor, as at the bottom of a pool. A cheap procedural caustic shader with wave speed, scale and tint on knobs makes a calm, liquid, architectural layer for projection mapping.
     sources:
       - https://en.wikipedia.org/wiki/Caustic_(optics)
@@ -128,6 +141,7 @@ ideas:
   - slug: boids-murmuration-flocks
     title: Boids Murmuration Flocks
     status: published
+    part: visuals
     pitch: Craig Reynolds' boids use three local rules (separation, alignment, cohesion) to make swarms that move like starling murmurations. Rule weights, predator position and flock size map to knobs and beats, so the flock twists, splits and regroups with the music.
     sources:
       - https://www.red3d.com/cwr/boids/
@@ -137,6 +151,7 @@ ideas:
   - slug: datamosh-compression-glitch
     title: Datamosh Compression Glitch
     status: published
+    part: looks
     pitch: Deliberately breaking video compression (dropped I-frames, repeated P-frames) makes motion from one clip smear and bloom across another image, as in Takeshi Murata's Monster Movie. Live, emulate it with motion-vector smearing and block corruption, with glitch amount and freeze on beat triggers.
     sources:
       - https://spotlightfx.com/blog/what-is-datamoshing
@@ -147,6 +162,7 @@ ideas:
   - slug: analog-video-feedback-loops
     title: Analog Video Feedback Loops
     status: published
+    part: looks
     pitch: A camera pointed at a monitor showing its own output creates recursive spirals and tunnels that grow and mutate. Emulate it with a zoom, rotate and colour-shift feedback chain; the transform values on knobs make living, self-generating patterns.
     sources:
       - https://en.wikipedia.org/wiki/Video_feedback
@@ -156,6 +172,7 @@ ideas:
   - slug: oscilloscope-xy-vector-art
     title: Oscilloscope XY Vector Art
     status: published
+    part: visuals
     pitch: Feeding left and right audio channels to the X and Y inputs of an oscilloscope lets sound draw glowing vector line art, as in Jerobeam Fenderson's Oscilloscope Music. Render phosphor-style lines with Lissajous or audio-driven shapes; it gives a laser-like look that reacts to the music directly.
     sources:
       - https://www.creativeapplications.net/project/oscilloscope-music-jerobeam-fenderson-and-hansi-raber/
@@ -165,6 +182,7 @@ ideas:
   - slug: l-system-growing-fractals
     title: L-System Growing Fractals
     status: published
+    part: visuals
     pitch: Lindenmayer's string-rewriting grammars grow fractal plants, trees and curves from a few rules. Iteration depth, branch angle and growth speed map to MIDI, so a tree sprouts and sways in time with the beat.
     sources:
       - https://en.wikipedia.org/wiki/L-system
@@ -174,6 +192,7 @@ ideas:
   - slug: stable-fluids-ink-smoke
     title: Stable Fluids Ink and Smoke
     status: published
+    part: visuals
     pitch: A GPU solver based on Stam's stable fluids advects colour through a velocity field to give swirling ink and smoke. Splat positions, viscosity and vorticity can be driven by MIDI notes or audio peaks, which makes tactile flowing visuals.
     sources:
       - https://developer.nvidia.com/gpugems/gpugems/part-vi-beyond-triangles/chapter-38-fast-fluid-dynamics-simulation-gpu
@@ -183,6 +202,7 @@ ideas:
   - slug: albers-color-interaction
     title: Albers Color Interaction
     status: published
+    part: visuals
     pitch: Josef Albers' Interaction of Color shows how one colour looks different in another context, using simple nested squares and stripes. Animate colour pairs and palettes on a grid of flat shapes, with hue shifts on knobs and beat-triggered swaps, to make colour itself the performance.
     sources:
       - https://www.albersfoundation.org/alberses/teaching/interaction-of-color
@@ -192,6 +212,7 @@ ideas:
   - slug: moholy-nagy-light-space-modulator
     title: Moholy-Nagy Light-Space Modulator
     status: published
+    part: visuals
     pitch: Bauhaus artist Moholy-Nagy built kinetic light machines whose moving metal and glass parts cast shifting shadows and reflections. Recreate this as a virtual rotating sculpture with moving lights and shadow projections, with rotation speed and light angle on MIDI.
     sources:
       - https://en.wikipedia.org/wiki/L%C3%A1szl%C3%B3_Moholy-Nagy
@@ -201,6 +222,7 @@ ideas:
   - slug: aurora-curtain-simulation
     title: Aurora Curtain Simulation
     status: published
+    part: visuals
     pitch: Auroras are glowing curtains of green and violet light in the upper atmosphere, caused by solar particles hitting oxygen and nitrogen. A layered noise shader with wave speed, height and colour on knobs gives a slow, huge, atmospheric backdrop that swells on audio.
     sources:
       - https://en.wikipedia.org/wiki/Aurora
@@ -210,6 +232,7 @@ ideas:
   - slug: point-cloud-scan-worlds
     title: Point Cloud Scan Worlds
     status: published
+    part: visuals
     pitch: Photogrammetry and 3D scans produce point clouds, sets of coloured 3D points that can be rendered as glittering particles. Play with point size, noise displacement, slicing planes and camera fly-through to dissolve real places into dust on the beat.
     sources:
       - https://en.wikipedia.org/wiki/Point_cloud
@@ -219,6 +242,7 @@ ideas:
   - slug: hyperbolic-poincare-tilings
     title: Hyperbolic Poincare Tilings
     status: published
+    part: visuals
     pitch: Tilings of the hyperbolic plane shown in the Poincare disk, the geometry behind Escher's Circle Limit prints, crowd infinitely many shrinking tiles toward the rim. Tiling type, disk translation and rotation map to knobs and BPM, so the viewer seems to fly through an endless, curved ornament.
     sources:
       - https://archive.bridgesmathart.org/2024/bridges2024-4.html
@@ -229,6 +253,7 @@ ideas:
   - slug: demoscene-classic-effects
     title: Demoscene Classic Effects
     status: published
+    part: visuals
     pitch: Plasma, raster (copper) bars, rotozoomers and tunnels, the sine-based real-time tricks of the demoscene, are cheap shaders with a strong retro look. Sine frequencies, palette cycling and bar count go on knobs, and BPM drives the phase for a hard club-ready 90s feel.
     sources:
       - https://en.wikipedia.org/wiki/Demo_effect
@@ -239,6 +264,7 @@ ideas:
   - slug: pulsar-ridgeline-waveforms
     title: Pulsar Ridgeline Waveforms
     status: published
+    part: visuals
     pitch: The CP 1919 pulsar plot of stacked pulse profiles, famous from the Unknown Pleasures cover, as a live 3D ridgeline display. Each line is a time slice of an audio or noise signal with hidden-line occlusion; line count, spacing, tilt and pulse amplitude respond to audio and MIDI.
     sources:
       - https://www.scientificamerican.com/article/the-pulsar-chart-that-became-a-pop-icon-turns-50-joy-division-rsquo-s-unknown-pleasures/
@@ -248,6 +274,7 @@ ideas:
   - slug: truchet-tile-weaving
     title: Truchet Tile Weaving
     status: published
+    part: visuals
     pitch: A grid of simple square tiles, each rotated or flipped at random, joins into endless woven mazes, arcs and knots. Animate tile rotation as a wave or on the beat, and shift the random seed or scale levels with knobs, so the ornament re-weaves itself on every drop.
     sources:
       - https://en.wikipedia.org/wiki/Truchet_tile
@@ -258,6 +285,7 @@ ideas:
   - slug: kuramoto-firefly-synchronization
     title: Kuramoto Firefly Synchronization
     status: published
+    part: visuals
     pitch: The Kuramoto model describes many oscillators, like fireflies or clapping crowds, that start out of phase and pull each other into sync. Show them as a field of pulsing lights or rings; coupling strength and frequency spread on knobs take the swarm from chaos to a single unison flash, and a beat can reset the phases.
     sources:
       - https://en.wikipedia.org/wiki/Kuramoto_model
@@ -267,6 +295,7 @@ ideas:
   - slug: whitney-digital-harmonics
     title: Whitney Digital Harmonics
     status: published
+    part: visuals
     pitch: John Whitney built computer animation on harmonic motion, where points move on paths whose speeds are in simple ratios, so rosettes bloom and resolve into order in tune with music theory. Recreate it with a point-ring system whose ratio, phase and trail length map to MIDI, so patterns tension and resolve like chords.
     sources:
       - https://en.wikipedia.org/wiki/John_Whitney_(animator)
@@ -277,9 +306,40 @@ ideas:
   - slug: borromean-rings
     title: Borromean Rings
     status: published
+    part: visuals
     pitch: Three loops, no two of them linked, yet the three cannot be pulled apart; cut one and all fall free. Tom and Koos Verhoeff build them as mitered beam sculptures (hexagons, cube weavings, braids), and Charles Gunn and John M. Sullivan made a video about the Borromean IMU logo. Turn the link into a live 3D object whose rings rotate, morph between families and "cut" free on the drop.
     sources:
       - https://archive.bridgesmathart.org/2015/bridges2015-53.pdf
     tags: [topology, sculpture, geometry, 3d]
     found: 2026-11-20
     published: 2026-11-20
+  - slug: tritone-red-white-black
+    title: Tritone Red, White and Black
+    status: published
+    part: looks
+    pitch: Crush video to hard contrast, then map it to only three colours, black, white and one red, like an extreme LUT or gradient map. Duotone's bigger sibling, with roots in print tritones and red-black-white graphic art. Threshold points and the red's hue go on faders, so the image snaps between poster and silhouette on the beat.
+    sources:
+      - https://en.wikipedia.org/wiki/Duotone
+    tags: [look, color-grading, graphic, video]
+    found: 2026-11-22
+    published: 2026-11-22
+  - slug: one-bit-dithering
+    title: One-Bit Dithering
+    status: published
+    published: 2026-11-22
+    part: looks
+    pitch: Reduce video to pure black and white pixels and fake the greys with dither patterns, ordered Bayer grids, error diffusion or blue noise. An early-Mac and game-art look that turns any clip into a crisp graphic texture; pattern scale, algorithm and threshold become live controls.
+    sources:
+      - https://en.wikipedia.org/wiki/Dither
+    tags: [look, dithering, retro, pixel, video]
+    found: 2026-11-22
+  - slug: saul-bass-cutout-titles
+    title: Saul Bass Cut-Paper Titles
+    status: published
+    published: 2026-11-22
+    part: looks
+    pitch: Saul Bass's film title sequences and posters used flat colour fields, rough cut-paper shapes, bold type and jagged animated bars, and shaped decades of motion graphics. Rebuild the look as a live layer of flat shapes, torn edges and limited palettes that cut, slide and reveal on the beat.
+    sources:
+      - https://en.wikipedia.org/wiki/Saul_Bass
+    tags: [look, art-history, graphic-design, motion-graphics]
+    found: 2026-11-22

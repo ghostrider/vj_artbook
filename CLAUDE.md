@@ -13,7 +13,9 @@ Arturia KeyStep 37 / BeatStep Pro, Rust, TouchDesigner.
 docs/                     the published book (MkDocs source)
   index.md                landing page
   ideas/<slug>.md         one chapter per idea (written by book-editor)
-  ideas/index.md          table of contents for all ideas (auto-maintained)
+  ideas/index.md          overview of the two parts
+  ideas/looks.md          Part I: Looks and Styles, table of contents (auto-maintained)
+  ideas/visuals.md        Part II: Generative Visuals, table of contents (auto-maintained)
   open-calls.md           current open calls (written by open-call-scout)
 sketches/<slug>/          runnable code per idea (legacy; the design-sketcher writes no code)
 pipeline/
@@ -24,6 +26,13 @@ pipeline/
 .claude/agents/           the agent team
 .claude/commands/         /grow-book and /find-open-calls
 ```
+
+## Parts
+
+Every idea has a `part` in backlog.yml: `looks` (Part I, Looks and Styles: treatments and
+styles applied to any footage) or `visuals` (Part II, Generative Visuals: systems that make
+the image). Chapter files all stay in `docs/ideas/` so URLs never change; only the part
+pages group them. A default run adds 2 looks and 2 visuals.
 
 ## Pipeline (see .claude/commands/grow-book.md)
 
