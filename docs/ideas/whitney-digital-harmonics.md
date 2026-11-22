@@ -10,6 +10,9 @@ tags:
 
 > A ring of dots turns at whole-number speeds, scatters into a cloud and snaps back into a figure on the downbeat.
 
+![Black and red spirograph art: looping round lines on a dark ground](https://images.unsplash.com/photo-1603124314041-15e7fd60a23d?w=1400)
+*Similar look, not the original work. Photo: [Glen Carrie](https://unsplash.com/photos/black-and-red-round-illustration-buTmRpLR1qY) on [Unsplash](https://unsplash.com/license).*
+
 ## The idea
 
 Give every dot its own speed. Make the speeds whole-number multiples of one base rate: 1x, 2x, 3x and so on. Give each dot its own direction. Let no randomness in. The field then forms and reforms recognisable patterns. John Whitney called this harmonic resonance ([Digital Harmony text](https://archive.org/stream/DigitalHarmony_201611/Digital%20Harmony_djvu.txt)).
@@ -29,6 +32,9 @@ On a club screen this is tension and release without a single cut. The field blo
 - *Arabesque* (1975): described as the peak of his digital films, with blooming colour forms ([Wikipedia](https://en.wikipedia.org/wiki/John_Whitney_(animator))).
 - Whitney-Reed RDTD (Radius-Differential Theta Differential), his later audio-visual composition program, used in works such as *Moon Drum* (1989-1995) ([Wikipedia](https://en.wikipedia.org/wiki/John_Whitney_(animator))).
 - Book: *Digital Harmony* (1980), with code examples ([Visual Music Archive](https://visualmusicarchive.org/reading/r/digital-harmony.html)). Full text on [archive.org](https://archive.org/stream/DigitalHarmony_201611/Digital%20Harmony_djvu.txt).
+
+![Still from Permutations by John Whitney](https://computerhistory.org/wp-content/uploads/2022/05/Permutations-2-760x0-c-default.jpg)
+*Permutations, John Whitney, 1966. © Whitney Editions, LLC. Shown as a quotation for reference; source: [Computer History Museum](https://computerhistory.org/exhibits/technology-art/).*
 
 ## Visual language
 

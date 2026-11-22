@@ -10,6 +10,10 @@ tags:
 
 > A field of lights flickers at random, then learns to agree, and one fader decides how fast.
 
+![Preview image of Nicky Case's Fireflies explorable](https://ncase.me/fireflies/social/thumbnail.png)
+
+*Preview image of Nicky Case's Fireflies explorable. Image: [Nicky Case](https://ncase.me/fireflies/), [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).*
+
 ## The idea
 
 Many small clocks, each with its own tempo, pull on each other. Below a critical coupling the crowd stays incoherent. Above it, synchrony emerges, and with strong coupling all oscillators share one frequency. That is the Kuramoto model ([Wikipedia](https://en.wikipedia.org/wiki/Kuramoto_model)).

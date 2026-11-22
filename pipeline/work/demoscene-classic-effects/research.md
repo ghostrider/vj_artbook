@@ -59,7 +59,13 @@ Saturated gradient palettes cycling through hue; smooth sine-warped blobs (plasm
 - [Realtime Visualization Methods in the Demoscene](https://old.cescg.org/CESCG-2002/BBurger) — paper with demo effect overview and their own demos
 
 ## Lead image
-NONE. The Commons file page I found (File:Vertical_Raster_Bars.png) could not be fetched (url_not_found), the Commons API and search were blocked, and the only file page I could open (File:Frame 000000100 extra terrible resolution.png) shows a plasma-physics simulation, not the demoscene effect. No YouTube video could be confirmed because the oEmbed endpoint was blocked.
+- kind: similar
+- page_url: https://unsplash.com/photos/vibrant-abstract-concentric-color-gradient-qs62YnigrXE
+- image_url: https://images.unsplash.com/photo-1791960466884-3a956d57b023?w=1400
+- shows: "Abstract chromatic plasma gradient": concentric rings of red, orange, green and cyan, close to a palette-cycled plasma or tunnel colour ramp (smooth, not pixelated)
+- photographer: Plasmanica Generator (https://unsplash.com/@plasmanicagenerator)
+- license: Unsplash License
+- note: no free Commons image could be verified (Commons blocked). No screenshot of a discussed demo hosted by its own creator was found: Kefrens and Sanity screens exist only on mirrors (exotica.org.uk Ami Sector One), the Trixter glossary is a mirror with screenshots of other groups' demos, and the CESCG paper's Fig. 1 shows other groups' demos.
 
 ## Sources
 - [Wikipedia: Demo effect](https://en.wikipedia.org/wiki/Demo_effect)

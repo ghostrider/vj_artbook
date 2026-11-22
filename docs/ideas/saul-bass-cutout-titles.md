@@ -10,6 +10,9 @@ tags:
 
 > A flat poster that moves in snaps: paper bars slam in on the kick, one bold icon breaks along scissor cuts, and nothing is ever eased.
 
+![Triangles of coloured paper laid flat as a background](https://images.unsplash.com/photo-1590412732788-d54badbebb53?w=1400)
+*Similar look, not the original work. Photo: [engin akyurt](https://unsplash.com/photos/blue-yellow-and-black-triangle-illustration-G26eJNYZA24) on [Unsplash](https://unsplash.com/license).*
+
 ## The idea
 
 Saul Bass was a Bronx-born American graphic designer and filmmaker, known for film posters, corporate logos and title sequences ([Wikipedia](https://en.wikipedia.org/wiki/Saul_Bass)). In the 1950s he turned opening credits from static cards into short films. His method was reduction: few shapes, two or three colours, one motion path per object, timing locked to the music.
@@ -30,6 +33,9 @@ It suits almost any footage, because flat shapes work as mattes, masks and windo
 - **West Side Story** (1961) and **Seconds** (1966) show the range ([BFI](https://www.bfi.org.uk/lists/celebrating-saul-basss-centenary-10-essential-title-sequences)).
 - **Elaine Bass**: joined the studio in 1955, married Saul in 1961, collaborated for 30+ years, including the Oscar-winning short *Why Man Creates* (1968) ([Wikipedia](https://en.wikipedia.org/wiki/Saul_Bass)).
 
+![Anatomy of a Murder album cover: fragmented black silhouette figure on flat colour fields](https://collections-images.lacma.org/images/165689/165689-1-primary.webp)
+*Anatomy of a Murder (album cover), Saul Bass, 1959. © EMI Group Limited-Capitol Records, courtesy Saul Bass Estate. Shown as a quotation for reference; source: [LACMA](https://collections.lacma.org/object/165689).*
+
 ## Visual language
 
 - **Colour:** four flat slots per palette: ground, near-black ink, off-white paper, one hot accent. No gradients, no shading, no glow. Palettes change by hard cut, never cross-fade.
@@ -49,7 +55,7 @@ It suits almost any footage, because flat shapes work as mattes, masks and windo
 - [Psycho title page, Art of the Title](https://www.artofthetitle.com/title/psycho/) — bars and type
 - [BFI: 10 essential Saul Bass title sequences](https://www.bfi.org.uk/lists/celebrating-saul-basss-centenary-10-essential-title-sequences) — overview of the main sequences
 
-Bass's posters and titles are copyrighted, so this chapter shows no image of them. Follow the links.
+Bass's posters and titles are copyrighted. The Anatomy of a Murder cut-up figure is shown under Origins as a quotation from the LACMA collection; for the rest, follow the links.
 
 ## Code design
 

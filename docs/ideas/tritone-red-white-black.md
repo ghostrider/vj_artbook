@@ -10,6 +10,9 @@ tags:
 
 > Crush any footage into three flat colours, black, white and one hard red, and let the beat decide which tone gets the red.
 
+![A red wall with white and black lines on it](https://images.unsplash.com/photo-1548511545-bb2a65ba2762?w=1400)
+*Similar look, not the original work. Photo: [Claudio Schwarz](https://unsplash.com/photos/a-red-wall-with-white-and-black-lines-on-it-Uja-TBfFpz4) on [Unsplash](https://unsplash.com/license).*
+
 ## The idea
 
 Video goes in, a screen-printed poster comes out. Three flat fields, no greys, no gradients, no texture inside a field. Faces turn into stencils. Hands become silhouettes with a red mid-tone band. Smoke and feedback become hard-edged blobs that never stop changing shape. The borders between the fields are the drawing, and they crawl wherever film grain or sensor noise crosses a threshold.
@@ -32,6 +35,9 @@ The look has no single origin. These are the reference points, arty ones first.
 - ***Sin City* (2005).** Mostly black and white with colour on selected objects ([Wikipedia](https://en.wikipedia.org/wiki/Sin_City_(film))). The spot-colour cousin, not strictly three colours.
 
 No verifiable red/white/black VJ or AV set turned up in the research. The owner's original set is the best live reference.
+
+![The Man-Machine record cover: the four members of Kraftwerk in red shirts and black ties on a staircase, with angled text, printed in red, black and white](https://framemark.vam.ac.uk/collections/2011EW5723/full/735,/0/default.jpg)
+*The Man-Machine (record cover, 1993 reissue), Kraftwerk (artwork Karl Klefisch, photography Günther Fröhling), 1978. © Kling Klang / EMI Electrola. Shown as a quotation for reference; source: [Victoria and Albert Museum](https://collections.vam.ac.uk/item/O1192920/the-man-machine-record-cover/).*
 
 ## Visual language
 

@@ -56,7 +56,20 @@ Ideas below are design suggestions, not claims from sources.
 - [Whitney overview (Socks-Studio)](https://socks-studio.com/2010/11/25/john-whitney-inventor-and-father-of-computer-animation/) — machine and film images.
 
 ## Lead image
-NONE. Wikimedia Commons could not be opened in this session, so no free image was confirmed.
+- kind: similar
+- image_url: https://images.unsplash.com/photo-1603124314041-15e7fd60a23d?w=1400
+- page_url: https://unsplash.com/photos/black-and-red-round-illustration-buTmRpLR1qY
+- shows: "spirograph art", black and red round illustration
+- author: Glen Carrie
+- license: Unsplash License, https://unsplash.com/license
+
+## Quotation images
+- kind: quotation
+- image_url: https://computerhistory.org/wp-content/uploads/2022/05/Permutations-2-760x0-c-default.jpg
+- page_url: https://computerhistory.org/exhibits/technology-art/
+- work: Permutations, John Whitney (1966 per Visual Music Archive; the museum page dates it 1968)
+- rights holder: Whitney Editions, LLC (museum credit line: "Courtesy of Whitney Editions, LLC")
+- site: Computer History Museum, exhibit "Technology & Art"; image sits in the Permutations section
 
 ## Sources
 - https://en.wikipedia.org/wiki/John_Whitney_(animator)

@@ -58,7 +58,21 @@ Reduction to a small rule set: few shapes, two or three colours, one motion path
 - [BFI: 10 essential Saul Bass title sequences](https://www.bfi.org.uk/lists/celebrating-saul-basss-centenary-10-essential-title-sequences) — overview of the main sequences
 
 ## Lead image
-NONE — Bass's posters and titles are copyrighted; no free-licence image showing the cut-paper look was verified (the Commons items found are portraits, not the look). Link only.
+- kind: similar
+- image_url: https://images.unsplash.com/photo-1590412732788-d54badbebb53?w=1400
+- page_url: https://unsplash.com/photos/blue-yellow-and-black-triangle-illustration-G26eJNYZA24
+- photographer: engin akyurt (@enginakyurt)
+- license: Unsplash License (free, not Unsplash+), https://unsplash.com/license
+- shows: "blue yellow and black triangle illustration"; page description: a background made of colored papers
+
+## Quotation images
+- kind: quotation
+- image_url: https://collections-images.lacma.org/images/165689/165689-1-primary.webp
+- page_url: https://collections.lacma.org/object/165689
+- work: Otto Preminger's Anatomy of a Murder (album cover), Saul Bass, 1959, offset lithography
+- rights: © EMI Group Limited-Capitol Records. Courtesy Saul Bass Estate (photo © Museum Associates/LACMA)
+- site: LACMA collections (official museum record; image URL is the page's og:image)
+- note: no free-licence image of the look was found; Art of the Title is not the rights holder.
 
 ## Sources
 - https://en.wikipedia.org/wiki/Saul_Bass

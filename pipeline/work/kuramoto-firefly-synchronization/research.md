@@ -53,7 +53,12 @@ The firefly version in Nicky Case's explorable is simpler. Each firefly has a cl
 - [Veritasium: The Secret of Synchronization](https://veritasium.com/videos/2021/3/31/the-secret-of-synchronization) — page for the video on sync, with the Kuramoto and firefly interactives in its references.
 
 ## Lead image
-NONE. The Wikimedia Commons file pages found in search (Kuramoto model animations) could not be opened to confirm licence and author, so no image is claimed.
+- kind: free
+- image_url: https://ncase.me/fireflies/social/thumbnail.png
+- page_url: https://ncase.me/fireflies/
+- author: Nicky Case
+- license: CC0 1.0 (page: "dedicated to the public domain"; GitHub repo ncase/fireflies lists CC0-1.0), https://creativecommons.org/publicdomain/zero/1.0/
+- shows: og:image preview of the Fireflies explorable
 
 ## Sources
 - [Wikipedia: Kuramoto model](https://en.wikipedia.org/wiki/Kuramoto_model)

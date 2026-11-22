@@ -51,7 +51,20 @@ Endless repeating cells that shrink toward a hard circular rim; curved edges (ar
 - [hypertiling](https://gitpages.physik.uni-wuerzburg.de/hypertiling/hyperweb/) — lattice plots and animation in the disk.
 
 ## Lead image
-NONE. Wikipedia and Wikimedia Commons could not be fetched in this session (permission blocked), so no licence could be checked on a file page. Candidate to check later: Anton Sherwood's {7,3} image, which Visual Insight says is public domain on Wikimedia Commons ([AMS Visual Insight](https://blogs.ams.org/visualinsight/wp-json/wp/v2/posts/946)).
+- kind: free
+- image_url: https://blogs.ams.org/visualinsight/files/2014/06/73_tiling.png
+- page_url: https://blogs.ams.org/visualinsight/2014/07/15/73-tiling/
+- author: Anton Sherwood
+- license: Public domain (the AMS Visual Insight page states he put it in the public domain)
+- shows: {7,3} tiling of the hyperbolic plane by equal regular heptagons, three meeting at each vertex
+
+## Quotation images
+- kind: quotation
+- image_url: https://mcescher.com/wp-content/uploads/2019/05/LW-434.jpg
+- page_url: https://mcescher.com/gallery/mathematical/
+- work: Circle Limit III (LW 434), M.C. Escher, December 1959, woodcut
+- rights holder: The M.C. Escher Company B.V. (site footer: all rights reserved, no reproduction without written permission)
+- note: no free-licence image could be verified (Commons not reachable). Free candidate to check later: Anton Sherwood's {7,3} image, which Visual Insight says is public domain on Wikimedia Commons ([AMS Visual Insight](https://blogs.ams.org/visualinsight/wp-json/wp/v2/posts/946)).
 
 ## Sources
 - [Bridges 2024, Sanderson](https://archive.bridgesmathart.org/2024/bridges2024-4.html)

@@ -46,7 +46,21 @@ These are design ideas, not sourced claims.
 - [Multi-Scale Truchet Patterns (Bridges 2018)](https://archive.bridgesmathart.org/2018/bridges2018-39.html) — paper by Christopher Carlson with figures.
 
 ## Lead image
-NONE. I could not open a Wikimedia Commons file page or the Commons API for a free-licensed Truchet image, so no licence could be checked.
+- kind: similar
+- image_url: https://images.unsplash.com/photo-1643780209580-4930b4703f78?w=1400
+- page_url: https://unsplash.com/photos/a-black-and-white-photo-of-a-pattern-tC_iUKTU1A4
+- photographer: Mingwei Lim (@cmzw)
+- license: Unsplash License (free, not Unsplash+), https://unsplash.com/license
+- shows: page description "Truchet Tiles (Circles). Rendered with Blender using cycles."; black and white render
+
+## Quotation images
+- kind: quotation
+- image_url: https://i0.wp.com/chalkdustmagazine.com/wp-content/uploads/2019/03/truc3.png
+- page_url: https://chalkdustmagazine.com/features/when-truchet-met-chladni/
+- work: figure "Comparison of large random Truchet tiling and large Chladni pattern" in "When Truchet met Chladni", Stephen Muirhead, Chalkdust, 14 March 2019
+- rights: © Chalkdust Magazine (publisher; the page states no image licence)
+- site: Chalkdust (the publisher; image URL is the figure's full-size link in the page HTML)
+- note: no free-licensed scan of Truchet's 1704 plates could be verified (archive.org scan of the 1704 Histoire de l'Académie is marked Attribution-Noncommercial 3.0; Wikimedia blocked).
 
 ## Sources
 - [Truchet tile, Wikipedia](https://en.wikipedia.org/wiki/Truchet_tile)

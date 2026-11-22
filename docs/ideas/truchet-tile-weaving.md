@@ -10,6 +10,9 @@ tags:
 
 > A grid of simple tiles, each turned at random, knots itself into endless paths, and a wave of rotation on every bar ties new knots.
 
+![Black and white Blender render of Truchet tiles (circles)](https://images.unsplash.com/photo-1643780209580-4930b4703f78?w=1400)
+*Similar look, not the original work. Photo: [Mingwei Lim](https://unsplash.com/photos/a-black-and-white-photo-of-a-pattern-tC_iUKTU1A4) on [Unsplash](https://unsplash.com/license).*
+
 ## The idea
 
 A Truchet tile is a square with a pattern that is not rotationally symmetric. Its orientation carries information ([Wikipedia](https://en.wikipedia.org/wiki/Truchet_tile)). The quarter-circle version has two orientations. Two arcs join the midpoints of adjacent sides. Because the arcs always meet at edge midpoints, lines run across cell borders and close into loops, knots and long paths.
@@ -26,6 +29,9 @@ On a club screen this gives a strict grid rhythm with organic flow on top. Turn 
 - Lionel Radisson (makio135), Observable notebook, 24 March 2021: implements the multi-scale idea ([Observable](https://observablehq.com/@makio135/multi-scale-truchet-patterns)).
 - Nick Montfort calls the one-line Commodore 64 BASIC program that draws the maze version "a found poem" ([Wikipedia](https://en.wikipedia.org/wiki/Truchet_tile)).
 - The Art of Code, "Shader Coding: Truchet Tiling Explained!" (2019): vine-like Truchet patterns in a shader ([YouTube](https://www.youtube.com/watch?v=2R7h76GoIJM)).
+
+![A large random Truchet tiling of winding paths beside a Chladni pattern](https://i0.wp.com/chalkdustmagazine.com/wp-content/uploads/2019/03/truc3.png)
+*Random Truchet tiling compared with a Chladni pattern, figure from "When Truchet met Chladni", Stephen Muirhead, 2019. © Chalkdust Magazine. Shown as a quotation for reference; source: [Chalkdust](https://chalkdustmagazine.com/features/when-truchet-met-chladni/).*
 
 ## Visual language
 

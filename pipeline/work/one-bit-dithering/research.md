@@ -64,7 +64,21 @@ These are design suggestions drawn from the technique, not claims from sources.
 - [Moments in Graphics: blue noise textures](https://momentsingraphics.de/BlueNoise.html) — blue-noise textures and dither comparisons.
 
 ## Lead image
-NONE. The Wikimedia Commons file pages (for example the Floyd–Steinberg and 1-bit dithered test-chart files) could not be opened here, so licence and author could not be verified.
+- kind: free
+- image_url: https://live.staticflickr.com/8057/8183886279_b5b4f28938.jpg
+- page_url: https://www.flickr.com/photos/oskay/8183886279/
+- author: Windell Oskay (Evil Mad Scientist Laboratories), "Goggles&Calipers", 2012
+- license: CC BY 2.0, https://creativecommons.org/licenses/by/2.0/ (shown on the Flickr photo page)
+- shows: Atkinson dithering made with the Mirror Dither app (webcam dithering sketch, see https://www.evilmadscientist.com/2012/dithering/)
+
+## Quotation images
+- kind: quotation
+- page_url: https://obradinn.com/
+- image_url: https://obradinn.com/img/shots/Ship-01.png
+- shows: in-game screenshot of Return of the Obra Dinn (ship view), fully 1-bit rendered; from the screenshot gallery on the game's official site
+- work: Return of the Obra Dinn, Lucas Pope, 2018
+- rights_holder: 3909 LLC (site footer: "Copyright © 2018-2026, 3909 LLC. All rights reserved.")
+- note: Commons was not reachable; the chapter discusses the game in "Origins and references".
 
 ## Sources
 - [Wikipedia: Dither](https://en.wikipedia.org/wiki/Dither)

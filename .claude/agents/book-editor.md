@@ -22,7 +22,7 @@ tags:
 > <one-line hook, your own words>
 
 ![<what it shows>](<image_url>)
-*<what it shows>. Image: [<author>](<file_page>), [<license>](<license_url>).*
+<caption line for the image kind, see Lead image below>
 
 ## The idea
 2–3 short paragraphs: what it is, where it comes from, why it hits on a club screen.
@@ -70,9 +70,22 @@ For a **looks** chapter, "The idea" also says what kind of footage the look suit
 - Content inside `???` and `===` blocks must be indented by 4 spaces.
 
 ## Lead image
-Take the "Lead image" entry from research.md and embed it under the hook as shown above,
-using its `image_url` directly, with the credit line. Never download or copy the image file.
-If the entry is `NONE`, leave the image out and say so in your report.
+Take the "Lead image" entry from research.md and embed it under the hook, using its
+`image_url` directly. Never download or copy the image file. The lead image is always free
+(see the image rule in CLAUDE.md). Caption by kind:
+
+- **free**: `*<what it shows>. Image: [<author>](<page_url>), [<license>](<license_url>).*`
+- **similar** (Unsplash/Pexels):
+  `*Similar look, not the original work. Photo: [<photographer>](<page_url>) on [Unsplash](https://unsplash.com/license).*`
+  (or `[Pexels](https://www.pexels.com/license/)`).
+
+If the entry is `NONE`, leave the lead image out and say so in your report.
+
+## Quotation images
+Embed each entry from "Quotation images" in research.md inside "Origins and references",
+right after the text that discusses that work, with this caption on the next line:
+`*<Work>, <artist>, <year>. © <rights holder>. Shown as a quotation for reference; source: [<site>](<page_url>).*`
+Never use a quotation image as the lead image.
 
 ## Finish
 1. Read the idea's `part` in backlog.yml. Add a row to that part's page: `docs/ideas/looks.md`

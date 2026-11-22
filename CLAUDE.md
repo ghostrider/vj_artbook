@@ -48,10 +48,21 @@ pages group them. A default run adds 2 looks and 2 visuals.
 - Always cite sources as Markdown links. Never invent artists, works, URLs or dates.
   If something cannot be verified, leave it out.
 - Paraphrase; quote at most one short sentence per source.
-- Images: every chapter shows one lead image of the idea, embedded from its source URL.
-  Never download or copy image files into the repo. Only public domain or free licences
-  (CC0, CC BY, CC BY-SA), checked on the file page, with author, licence and source credited
-  under the image. No NC/ND, no unknown licences. All other images: link to them.
+- Images are always embedded by their URL (hotlinked). Never download or copy image files
+  into the repo.
+  - **Lead image** (directly under the hook): free images only. First choice, a free licence:
+    public domain, CC0, CC BY, CC BY-SA (Wikimedia Commons first), checked on the file page,
+    with author, licence and source credited. Second choice, a similar photo from Unsplash or
+    Pexels that truly resembles the look, captioned
+    `*Similar look, not the original work. Photo: [<photographer>](<photo page>) on [Unsplash](https://unsplash.com/license).*`
+    (or Pexels with https://www.pexels.com/license/). No CC NC/ND, no unknown licences.
+    If nothing free fits, no lead image.
+  - **Quotation images** (in "Origins and references", next to the text that discusses the
+    work): a copyrighted original, only from the rights holder's own site or an official
+    archive (artist, estate, studio, label, publisher, museum, festival). Never from reposts,
+    fan sites, Pinterest, wallpaper or image-search sites. Skip it (link only) if that site
+    explicitly forbids reproduction. Use the exact image URL from the page's HTML. Caption:
+    `*<Work>, <artist>, <year>. © <rights holder>. Shown as a quotation for reference; source: [<site>](<page URL>).*`
 - Slugs: lowercase-kebab-case, unique, never renamed once published.
 - Never delete published chapters. Corrections are fine.
 - `pipeline/backlog.yml` must stay valid YAML. Edit only your own idea's entry.

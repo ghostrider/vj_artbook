@@ -61,7 +61,21 @@
 - [R Graph Gallery: ridgeline chart](https://r-graph-gallery.com/ridgeline-plot) — examples of the general ridgeline technique with colour gradients.
 
 ## Lead image
-NONE. Wikimedia Commons file pages and its API could not be opened with WebFetch in this session, so no licence could be checked on a file page. The Commons pulsar charts found through search are likely copies of the copyrighted album cover and must not be used. The vector recreations on cococubed have no stated licence.
+- kind: similar
+- image_url: https://images.unsplash.com/photo-1768280511074-3b3effe7a139?w=1400
+- page_url: https://unsplash.com/photos/abstract-black-and-white-wavy-lines-pattern-xP6ngsgxck0
+- photographer: Resource Database (@resourcedatabase)
+- license: Unsplash License (free, not Unsplash+), https://unsplash.com/license
+- shows: "Abstract black and white wavy lines pattern" (tags include line art, data visualization, topographic map)
+
+## Quotation images
+- kind: quotation
+- image_url: https://framemark.vam.ac.uk/collections/2011EW6763/full/!600,/0/default.jpg
+- page_url: https://collections.vam.ac.uk/item/O191218/unknown-pleasures-record-sleeve-peter-saville
+- work: Unknown Pleasures record sleeve, Joy Division, design Peter Saville, published by Factory Records, 1979
+- rights: © Peter Saville and Factory Records (photo © Victoria and Albert Museum, London); object given by Brett Wickens (Peter Saville Associates)
+- site: Victoria and Albert Museum collections (official museum record; image URL is the page's og:image)
+- note: no free-licence image found (Commons not reachable; Commons pulsar charts are likely copies of the cover; cococubed recreations have no stated licence).
 
 ## Sources
 - [University of Cambridge: journeys of discovery, pulsars](https://www.cam.ac.uk/stories/journeysofdiscovery-pulsars)

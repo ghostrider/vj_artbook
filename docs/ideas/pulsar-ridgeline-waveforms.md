@@ -10,6 +10,9 @@ tags:
 
 > Dozens of thin lines, each one a beat from the past, piled into a wire mountain where every peak hides what stands behind it.
 
+![Abstract black and white wavy lines pattern](https://images.unsplash.com/photo-1768280511074-3b3effe7a139?w=1400)
+*Similar look, not the original work. Photo: [Resource Database](https://unsplash.com/photos/abstract-black-and-white-wavy-lines-pattern-xP6ngsgxck0) on [Unsplash](https://unsplash.com/license).*
+
 ## The idea
 
 A ridgeline display stacks many one-dimensional curves. Each row is a trace: time on x, intensity as height. Rows are offset in y and overlap. Every row is filled with the background colour, so a peak in front cuts off the lines behind it. This is the hidden-line effect. The result reads as a solid range of mountains made of wire.
@@ -26,9 +29,12 @@ This chapter covers the general technique. It does not reproduce any specific pu
 - **R. Wielebinski** observed the same source at Parkes in 1968 and analysed its pulse statistics ([Nature, 1968](https://www.nature.com/articles/2191135a0)).
 - **Harold D. Craft Jr.** made the stacked plot for his 1970 Cornell PhD thesis, figure 5-37. It stacks 80 successive pulses recorded at 318 MHz ([Timmes, cococubed](https://cococubed.com/pix_pages/joy_division_unknown_pleasures.shtml), [Scientific American](https://www.scientificamerican.com/article/the-pulsar-chart-that-became-a-pop-icon-turns-50-joy-division-rsquo-s-unknown-pleasures/)). He wrote the program that stacked the pulses and tilted the stack slightly, like looking up a hillside ([Big Think](https://bigthink.com/strange-maps/known-pleasures-from-pulsar-signal-to-post-punk-icon/)).
 - **Reprints** appeared in Scientific American (1971), Graphis Diagrams (1974) and the Cambridge Encyclopaedia of Astronomy (1977), in different colour schemes ([Big Think](https://bigthink.com/strange-maps/known-pleasures-from-pulsar-signal-to-post-punk-icon/), [cococubed](https://cococubed.com/pix_pages/joy_division_unknown_pleasures.shtml)).
-- **Joy Division, *Unknown Pleasures* (1979)**: the album cover uses an inverted version of this plot. The cover is copyrighted and is not shown here. Read its [context at Scientific American](https://www.scientificamerican.com/article/the-pulsar-chart-that-became-a-pop-icon-turns-50-joy-division-rsquo-s-unknown-pleasures/).
+- **Joy Division, *Unknown Pleasures* (1979)**: the album cover uses an inverted version of this plot. The cover is copyrighted; it is shown below as a quotation from the V&A collection. Read its [context at Scientific American](https://www.scientificamerican.com/article/the-pulsar-chart-that-became-a-pop-icon-turns-50-joy-division-rsquo-s-unknown-pleasures/).
 - **Claus Wilke** (ggridges, ggjoy) made the technique a standard chart type. In 2017 he renamed the "joy plot" to "ridgeline plot" ([Wilke](https://clauswilke.com/blog/2017/09/15/goodbye-joyplots/)). This book uses "ridgeline".
 - **Jen Christiansen** (Scientific American) traced the plot back to Craft ([cococubed](https://cococubed.com/pix_pages/joy_division_unknown_pleasures.shtml)). **Frank Timmes** made vector recreations of Craft's figure (same page).
+
+![Unknown Pleasures record sleeve: white stacked pulse lines on black](https://framemark.vam.ac.uk/collections/2011EW6763/full/!600,/0/default.jpg)
+*Unknown Pleasures, Joy Division (sleeve design Peter Saville), 1979. © Peter Saville and Factory Records. Shown as a quotation for reference; source: [Victoria and Albert Museum](https://collections.vam.ac.uk/item/O191218/unknown-pleasures-record-sleeve-peter-saville).*
 
 ## Visual language
 

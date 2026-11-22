@@ -22,11 +22,17 @@ You get one slug. Find its entry in `pipeline/backlog.yml` and explore the idea 
   videos that show the look (Shadertoy pages, YouTube/Vimeo videos, artist or project pages,
   Wikimedia Commons image pages, gallery pages). Open each link and confirm it actually
   shows the visual. Link only; never download or copy images.
-- **Lead image**: one image that clearly shows the look, under a free licence (public domain,
-  CC0, CC BY, CC BY-SA; never NC/ND or unknown). Wikimedia Commons first. Open the file page,
-  or use the Commons API (`https://commons.wikimedia.org/w/api.php?action=query&titles=File:<name>&prop=imageinfo&iiprop=url|extmetadata&iiurlwidth=1400&format=json`)
+- **Lead image** (free only, see the image rule in CLAUDE.md): first a free licence (public
+  domain, CC0, CC BY, CC BY-SA; never NC/ND or unknown), Wikimedia Commons first. Open the file
+  page, or use the Commons API (`https://commons.wikimedia.org/w/api.php?action=query&titles=File:<name>&prop=imageinfo&iiprop=url|extmetadata&iiurlwidth=1400&format=json`)
   and take licence, author and a ~1400 px image URL from there, not from search snippets.
-  If no free image fits, write `NONE` and the reason.
+  Otherwise a similar Unsplash/Pexels photo that truly resembles the look: open the photo page,
+  record photographer, photo page and image URL (for Unsplash, the `images.unsplash.com` URL
+  with `?w=1400`). If nothing fits, write `NONE` and the reason.
+- **Quotation images** (optional, 0–2): copyrighted originals of key works you cite, only from
+  the rights holder's own site or an official archive (artist, estate, studio, label,
+  publisher, museum). Open the page yourself, take the image URL from its HTML, and record
+  work, artist, year, rights holder and page URL. Skip sites that explicitly forbid reproduction.
 - **YouTube videos**: always search YouTube for the idea (e.g. `site:youtube.com <topic>`,
   plus the artists and works you found). If relevant videos exist, add 1–3 of them to
   Visual references: performances, artist documentation, live VJ sets or tutorials that show
@@ -48,7 +54,8 @@ Write `pipeline/work/<slug>/research.md` with exactly these headings:
 ## Variations
 ## Facts
 ## Visual references    - [Short title](URL) — what it shows, one line
-## Lead image           file_page, image_url, shows, author, license, license_url (or NONE + reason)
+## Lead image           kind (free | similar), image_url, page_url, shows, author, license + license_url (or NONE + reason)
+## Quotation images     per image: work, artist, year, rights holder, image_url, page_url (or none)
 ## Sources
 ```
 

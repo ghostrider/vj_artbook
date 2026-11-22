@@ -11,6 +11,9 @@ tags:
 
 > An endless ornament inside a round portal: cells shrink toward a hard rim while the disk glides one tile per bar.
 
+![{7,3} tiling of the hyperbolic plane by regular heptagons, three meeting at each vertex](https://blogs.ams.org/visualinsight/files/2014/06/73_tiling.png)
+*{7,3} tiling of the hyperbolic plane: equal regular heptagons, three at each vertex. Image: [Anton Sherwood](https://blogs.ams.org/visualinsight/2014/07/15/73-tiling/), Public domain.*
+
 ## The idea
 
 The Poincare disk draws the whole infinite hyperbolic plane inside a circle. Tiles of equal hyperbolic size look ever smaller toward the rim, so the pattern never runs out. Edges are circle arcs that meet the rim at right angles ([Dunham](https://www.math-art.eu/Documents/pdfs/Dunham.pdf)).
@@ -23,7 +26,7 @@ On a club screen the disk works as an object and as a tunnel. A black surround m
 
 - [Dunham, Escher's use of the Poincare models](https://www.math-art.eu/Documents/pdfs/Dunham.pdf) — the disk model, conformality and Escher's Circle Limit history.
 - [Sanderson, Bridges 2024](https://archive.bridgesmathart.org/2024/bridges2024-4.html) — retells how Escher's contact with mathematicians (Polya, the 1954 Congress, Coxeter) led to the Circle Limit series.
-- [Circle Limit III (1959), National Gallery of Art](https://www.nga.gov/artworks/61280-circle-limit-iii) — woodcut printed from five blocks; interlocking fish whose mouths meet in three-pointed stars. Copyrighted, so link only.
+- [Circle Limit III (1959), National Gallery of Art](https://www.nga.gov/artworks/61280-circle-limit-iii) — woodcut printed from five blocks; interlocking fish whose mouths meet in three-pointed stars. Copyrighted, and the M.C. Escher Company does not permit reproduction, so link only.
 - [Cook, Hyperbolic Poincare tiling of triangles](https://library.wolfram.com/infocenter/Demos/148) — Mathematica notebook that renders pictures and animations of a triangle tiling.
 - [EscherSketch](https://www.github.com/looeee/hyperbolic-tiling) — open-source WebGL prototype that maps two fish triangle images onto a two-coloured {p,q} tiling. The computer algorithm was first described by Douglas Dunham and first implemented by his PhD student Ajit Datar.
 - [Poincare meets Mandelbrot](https://westy31.nl/PoincareMeetsMandelbrot/PoincareMeetsMandelbrot.html) — Mandelbrot and Julia sets carried by a {7,3}-based tiling.

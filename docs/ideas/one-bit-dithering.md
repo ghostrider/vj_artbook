@@ -11,6 +11,9 @@ tags:
 
 > Two colours, hard square pixels, and every grey faked by the density of dots: an engraving that moves.
 
+![Atkinson-dithered image made with the Mirror Dither app](https://live.staticflickr.com/8057/8183886279_b5b4f28938.jpg)
+*Atkinson dithering, made with the Mirror Dither app. Image: [Windell Oskay](https://www.flickr.com/photos/oskay/8183886279/), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
+
 ## The idea
 
 Every pixel is compared to a threshold and becomes black or white. Plain thresholding loses all midtones, so dithering spreads the error around. The average over a small area matches the original grey, and the eye does the blending at a distance. Gradients become the star: a vignette or a radial glow turns into a crawling moiré of dots.
@@ -30,6 +33,9 @@ On a club screen the pattern itself is the instrument. The kick pumps the image 
 - **Windell Oskay, live Atkinson webcam sketch** (2012). A Processing sketch that dithers webcam video in real time ([Evil Mad Scientist](https://www.evilmadscientist.com/2012/dithering/)).
 - **Pope, Mars After Midnight devlog.** On pixel strobing when a dithered image scrolls ([itch.io devlog](https://dukope.itch.io/mars-after-midnight/devlog/285964/working-in-one-bit)).
 - Other 1-bit references: Papers, Please, Downwell, Dark Castle, Shadowgate, Deja Vu ([Game Developer](https://www.gamedeveloper.com/design/lucas-pope-and-the-rise-of-the-1-bit-dither-punk-aesthetic)).
+
+![Return of the Obra Dinn: in-game screenshot, rendered in 1-bit](https://obradinn.com/img/shots/Ship-01.png)
+*Return of the Obra Dinn, Lucas Pope, 2018. © 3909 LLC. Shown as a quotation for reference; source: [obradinn.com](https://obradinn.com/).*
 
 ## Visual language
 

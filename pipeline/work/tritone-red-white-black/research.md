@@ -62,7 +62,21 @@ Why hard steps: the three flat areas mean the picture is read as shape, not text
 - [NFB: Tower Bawher](https://www.nfb.ca/film/tower_bawher/) — animated Constructivist short, watchable on the NFB site
 
 ## Lead image
-NONE. The Wikimedia Commons file pages for the Lissitzky poster could not be opened in this run, so licence and author could not be checked. Candidate for the editor to verify: a Commons file of *Beat the Whites with the Red Wedge* (Lissitzky died 1941, so the work itself is likely public domain, but the specific file page must be checked).
+- kind: similar
+- image_url: https://images.unsplash.com/photo-1548511545-bb2a65ba2762?w=1400
+- page_url: https://unsplash.com/photos/a-red-wall-with-white-and-black-lines-on-it-Uja-TBfFpz4
+- photographer: Claudio Schwarz (@purzlbaum)
+- license: Unsplash License (free, not Unsplash+), https://unsplash.com/license
+- shows: "a red wall with white and black lines on it" (tags: abstract, grid, lines, railing)
+
+## Quotation images
+- kind: quotation
+- image_url: https://framemark.vam.ac.uk/collections/2011EW5723/full/735,/0/default.jpg
+- page_url: https://collections.vam.ac.uk/item/O1192920/the-man-machine-record-cover/
+- work: The Man-Machine record cover, Kraftwerk, first issued 1978 (V&A object is the 1993 reissue); artwork Karl Klefisch, photography Günther Fröhling (credits per Wikipedia)
+- rights: © Kling Klang / EMI Electrola (labels per Wikipedia); V&A page names no rights holder for the sleeve
+- site: Victoria and Albert Museum collections (official museum record; image URL is the page's top image, og:image is the !600 variant)
+- note: no museum page with an open/public-domain statement for Lissitzky's *Beat the Whites with the Red Wedge* could be opened (MFA Boston, Frye, AIC archive and MIT Dome pages show no licence; Dome says all rights reserved; Wikimedia blocked).
 
 ## Sources
 - https://en.wikipedia.org/wiki/Duotone

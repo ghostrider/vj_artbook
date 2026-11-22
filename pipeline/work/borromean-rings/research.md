@@ -53,7 +53,20 @@ Three interlocking loops in mutually perpendicular planes, 3-fold symmetry along
 - [Wolfram Demonstration, IMU rings](https://www.wolframcloud.com/objects/demonstrations/BorromeanRingsLogoOfTheInternationalMathematicalUnionIMU-source.nb) — interactive tight rings in icosahedral frame
 
 ## Lead image
-NONE. Commons file pages were not reachable from this environment, so no free licence could be verified.
+- kind: similar
+- image_url: https://images.unsplash.com/photo-1632373564036-cc8b7ce520c6?w=1400
+- page_url: https://unsplash.com/photos/a-group-of-intertwined-rings-on-a-black-background-80FNtdZ6L98
+- photographer: Shubham Dhage (@theshubhamdhage)
+- license: Unsplash License (free, not Unsplash+), https://unsplash.com/license
+- shows: "a group of intertwined rings on a black background"; page description: abstract 3D illustration of a geometrical object with light scattering (number of rings not stated)
+
+## Quotation images
+- kind: quotation
+- image_url: https://www.mathunion.org/fileadmin/IMU/Logo/IMU-logo-wt.png
+- page_url: https://www.mathunion.org/outreach/imu-logo-history
+- work: IMU logo, John Sullivan (with help from Nancy Wrinkle), adopted 2006
+- rights holder: International Mathematical Union (site footer: "© Copyright International Mathematical Union"; no licence or reuse statement on the page)
+- note: no free-licence image could be verified (Commons not reachable); the logo is discussed in "Origins and references".
 
 ## Sources
 - https://archive.bridgesmathart.org/2015/bridges2015-53.pdf

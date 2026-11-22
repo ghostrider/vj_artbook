@@ -10,7 +10,8 @@ tags:
 
 > Three loops, no two linked, yet none can leave: cut one and the whole knot falls apart.
 
-*No lead image: no freely licensed image could be verified for this chapter. See the links in "See it".*
+![3D illustration of intertwined rings on a black background](https://images.unsplash.com/photo-1632373564036-cc8b7ce520c6?w=1400)
+*Similar look, not the original work. Photo: [Shubham Dhage](https://unsplash.com/photos/a-group-of-intertwined-rings-on-a-black-background-80FNtdZ6L98) on [Unsplash](https://unsplash.com/license).*
 
 ## The idea
 
@@ -29,6 +30,9 @@ This chapter stands on two pieces of work. The video art lineage comes from the 
 - **Tom and Koos Verhoeff, mitered Borromean sculptures** (Bridges 2015). Three families: hexagonal rings (including the octahedral "Trinity II"), cube weavings with right-angled zigzag beams ("Trinity III", a single band of non-convex octagons), and a closed triangular braid giving three identical loops ([paper](https://archive.bridgesmathart.org/2015/bridges2015-53.pdf)).
 - **John Robinson**, sculptures Creation, Intuition and Genesis, cited in the Verhoeff paper ([Bridges 2015](https://archive.bridgesmathart.org/2015/bridges2015-53.pdf)).
 - **Numberphile, "Borromean Olympic Rings"** (2012): explainer on the rings and their extension to odd numbers of rings ([archive](https://rosetta.to/u/numberphile/borromean-olympic-rings-numberphile)).
+
+![IMU logo: the tight Borromean rings seen along their 3-fold axis](https://www.mathunion.org/fileadmin/IMU/Logo/IMU-logo-wt.png)
+*IMU logo, John Sullivan, 2006. © International Mathematical Union. Shown as a quotation for reference; source: [mathunion.org](https://www.mathunion.org/outreach/imu-logo-history).*
 
 ## Visual language
 

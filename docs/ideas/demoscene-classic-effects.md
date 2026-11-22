@@ -10,6 +10,9 @@ tags:
 
 > Plasma, copper bars, rotozoomer and tunnel: four sine tricks from the 90s that lock to a beat without effort.
 
+![Concentric rainbow rings of a chromatic plasma gradient](https://images.unsplash.com/photo-1791960466884-3a956d57b023?w=1400)
+*Similar look, not the original work. Photo: [Plasmanica Generator](https://unsplash.com/photos/vibrant-abstract-concentric-color-gradient-qs62YnigrXE) on [Unsplash](https://unsplash.com/license).*
+
 ## The idea
 
 Demo effects are small real-time graphics tricks. Their ancestors are early display hacks: the "Bouncing Ball" on the Whirlwind computer (early 1950s) and "munching squares" on the PDP-1 (around 1962) ([Wikipedia: Demo effect](https://en.wikipedia.org/wiki/Demo_effect)). The demoscene took off in the 1980s on the Commodore 64, Atari ST and Amiga, where coders reverse-engineered custom hardware to get new looks. In the MS-DOS era PCs had no special chip, so effects became pixel-level software rendering ([same source](https://en.wikipedia.org/wiki/Demo_effect)).
