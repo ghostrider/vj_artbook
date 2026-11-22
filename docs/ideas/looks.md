@@ -8,6 +8,8 @@ effects chain of the book. Newest first; maintained by the book-editor agent.
 
 | Idea | Tags | Added |
 |------|------|-------|
+| [Risograph Overprint and Misregistration](risograph-overprint-misregistration.md) | look, print, risograph, halftone, color | 2026-11-22 |
+| [VHS Tape Degradation](vhs-tape-degradation.md) | look, vhs, analog-video, retro, glitch | 2026-11-22 |
 | [Tritone Red, White and Black](tritone-red-white-black.md) | look, color-grading, graphic, video | 2026-11-22 |
 | [One-Bit Dithering](one-bit-dithering.md) | look, dithering, retro, pixel, video | 2026-11-22 |
 | [Saul Bass Cut-Paper Titles](saul-bass-cutout-titles.md) | look, art-history, graphic-design, motion-graphics | 2026-11-22 |

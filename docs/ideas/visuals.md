@@ -8,6 +8,8 @@ first; maintained by the book-editor agent.
 
 | Idea | Tags | Added |
 |------|------|-------|
+| [Vera Molnar Algorithmic Interruptions](vera-molnar-algorithmic-interruptions.md) | art-history, generative, grid, geometry, computer-art | 2026-11-22 |
+| [Lenia Continuous Artificial Life](lenia-continuous-artificial-life.md) | simulation, artificial-life, cellular-automata, shader, organic | 2026-11-22 |
 | [Borromean Rings](borromean-rings.md) | topology, sculpture, geometry, 3d | 2026-11-20 |
 | [Whitney Digital Harmonics](whitney-digital-harmonics.md) | visual-music, art-history, harmonics, geometry | 2026-11-18 |
 | [Kuramoto Firefly Synchronization](kuramoto-firefly-synchronization.md) | physics, biology, oscillators, sync | 2026-11-18 |

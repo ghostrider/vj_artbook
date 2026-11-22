@@ -343,3 +343,50 @@ ideas:
       - https://en.wikipedia.org/wiki/Saul_Bass
     tags: [look, art-history, graphic-design, motion-graphics]
     found: 2026-11-22
+    published: 2026-11-22
+  - slug: risograph-overprint-misregistration
+    title: Risograph Overprint and Misregistration
+    status: published
+    part: looks
+    pitch: Split any footage into two or three spot-ink layers, in fluorescent pink, blue and yellow, with grainy halftone texture, multiply overprint and slightly offset plates, as in risograph posters and animations. Layer offset, grain, ink colours and misregistration jitter go on knobs, so the image shifts out of register on the beat.
+    sources:
+      - https://wepresent.wetransfer.com/stories/tools-of-the-trade-risograph
+      - https://boingboing.net/2023/07/09/animation-plays-with-the-explosively-bright-colors-of-a-risograph-machine.html
+      - https://www.itsnicethat.com/articles/julia-schimautz-project-animation-021122
+    tags: [look, print, risograph, halftone, color]
+    found: 2026-11-22
+    published: 2026-11-22
+  - slug: vhs-tape-degradation
+    title: VHS Tape Degradation
+    status: published
+    part: looks
+    pitch: Emulate worn analog tape on live input with chroma bleed, tracking bands, head-switching noise, dot crawl, jitter and soft luma. Used deliberately in music videos and found-footage art for a nostalgic, haunted feel; tracking, bleed and noise amounts map to faders and a beat can trigger a tape glitch.
+    sources:
+      - https://apollo-magazine.com/nostalgia-vhs-television-video-art/
+      - https://en.wikipedia.org/wiki/Dot_crawl
+      - https://doi.org/10.33178/alpha.12.03
+    tags: [look, vhs, analog-video, retro, glitch]
+    found: 2026-11-22
+    published: 2026-11-22
+  - slug: lenia-continuous-artificial-life
+    title: Lenia Continuous Artificial Life
+    status: published
+    part: visuals
+    pitch: Lenia, by Bert Chan, is a continuous cellular automaton that grows smooth, self-organising creatures that glide, split and pulse like microscopic life. Kernel radius, growth centre and width on knobs morph the species live, and audio can inject new cells or shift the growth function on the beat.
+    sources:
+      - https://arxiv.org/abs/1812.05433
+      - https://arxiv.org/pdf/2005.03742
+    tags: [simulation, artificial-life, cellular-automata, shader, organic]
+    found: 2026-11-22
+    published: 2026-11-22
+  - slug: vera-molnar-algorithmic-interruptions
+    title: Vera Molnar Algorithmic Interruptions
+    status: published
+    part: visuals
+    pitch: Vera Molnar, a pioneer of computer art, drew rule-based grids of squares and lines, then disturbed them with controlled randomness, interruptions and displacement. Rebuild her method as a live generator where disorder amount, grid density and rule choice map to MIDI, so strict order breaks and heals on the beat.
+    sources:
+      - https://www.vam.ac.uk/blog/museum-life/vera-molnar-machine-imaginaire-the-dance-of-hands-and-machine-thinking
+      - https://infiniteimages.toledomuseum.org/?p=811
+    tags: [art-history, generative, grid, geometry, computer-art]
+    found: 2026-11-22
+    published: 2026-11-22
