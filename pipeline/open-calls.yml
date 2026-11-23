@@ -135,3 +135,69 @@ calls:
     found: 2026-11-17
     status: open
     notes: "Categories incl. installations, VR/AR/MR, multimedia performance, experimental single-channel video (max 12 min). Submit an online form with work samples (Vimeo/site), images and work statement, e.g. a UE5 real-time installation or AV performance. Deadline 11:59 pm MST."
+  - id: are-2027-bratislava
+    title: "ARE 2027 (Artistic Research Exhibition) open call"
+    organizer: "WIRE by FilmEU / Academy of Performing Arts Bratislava (VSMU)"
+    location: "Bratislava, Slovakia (exhibition 20 Apr - 5 May 2027)"
+    kind: [video-art, av-performance]
+    deadline: 2026-12-13
+    fee_or_budget: "No application fee; travel/accommodation reimbursed up to EUR 300 per project for artists attending in person"
+    url: https://www.ulusofona.pt/en/news/are-2027-open-call
+    found: 2026-11-23
+    status: open
+    notes: "Audiovisual or media-based work from artistic research, max 2 years old, any format (single screen, multi-screen, VR). Submit CV, abstract (max 400 words), preview link and technical description (max 120 words) via https://tally.so/r/RG9JMl. Fits a research-driven real-time AV work; notifications January 2027."
+  - id: genius-loci-weimar-2026
+    title: "Genius Loci Weimar 2026 videomapping competition"
+    organizer: "Genius Loci Weimar"
+    location: "Weimar, Germany"
+    kind: [projection-mapping]
+    deadline: 2026-06-14
+    fee_or_budget: "EUR 7,000 production budget per selected project, plus EUR 3,000 award"
+    url: https://www.genius-loci-weimar.org/en/competition-en.html
+    found: 2026-11-23
+    status: expired
+    notes: "Expired. Watch for the 2027 call (typically spring)."
+  - id: emaf-40-2027
+    title: "European Media Art Festival (EMAF) No. 40 call for entries"
+    organizer: "EMAF"
+    location: "Osnabrueck, Germany (21-25 Apr 2027)"
+    kind: [video-art, av-performance]
+    deadline: 2026-11-19
+    fee_or_budget: "Free entry"
+    url: https://emaf.de/en
+    found: 2026-11-23
+    status: expired
+    notes: "Closed early on 2026-11-19 after reaching 2,200 entries."
+  - id: sat-dome-residency-2027-2028
+    title: "SAT Dome Production Residency 2027-2028"
+    organizer: "Societe des arts technologiques (SAT)"
+    location: "Montreal, Canada"
+    kind: [residency, projection-mapping]
+    deadline: 2026-10-18
+    fee_or_budget: null
+    url: https://sat.qc.ca/en/calls/dome-production-residency-2027-2028-program
+    found: 2026-11-23
+    status: expired
+    notes: "Dome residency (immersive audio/video). Expired; watch for the next call."
+  - id: basel-film-medienkunst-2026-12
+    title: "Basel-Stadt/Baselland Fachausschuss Film und Medienkunst"
+    organizer: "Kanton Basel-Stadt / Basel-Landschaft"
+    location: "Basel, Switzerland"
+    kind: [video-art]
+    deadline: 2026-12-01
+    fee_or_budget: "Production grants, amounts per project not stated"
+    url: https://www.bs.ch/pd/kultur/kulturfoerderung/projekt-und-programmfoerderung/film-und-medienkunst
+    found: 2026-11-23
+    status: ignored
+    notes: "Funds video art and interactive art, but residency requirement (Basel region) not confirmed and Uli is in Schaffhausen. Next dates 1 Apr 2027, 4 Aug 2027."
+  - id: ilight-singapore-2027
+    title: "i Light Singapore 2027 open call"
+    organizer: "i Light Singapore"
+    location: "Singapore (Marina Bay, Jun 2027)"
+    kind: [light-art]
+    deadline: 2026-12-01
+    fee_or_budget: null
+    url: https://www.ilightsingapore.gov.sg/about/2027-open-call/
+    found: 2026-11-23
+    status: ignored
+    notes: "Listing says artists and creatives across Asia only; not eligible. Official page not fetched."
